@@ -1,383 +1,603 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <channelList>
 	<channel>
-		<meoCode>RTP1</meoCode>
+		<provCode>RTP1</provCode>
 		<tvg-id>rtp1.pt</tvg-id>
 		<name>RTP 1</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>RTP2</meoCode>
+		<provCode>RTP1HD</provCode>
+		<tvg-id>rtp1-hd.pt</tvg-id>
+		<name>RTP 1 HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>RTP2</provCode>
 		<tvg-id>rtp2.pt</tvg-id>
 		<name>RTP 2</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SIC</meoCode>
+		<provCode>RTP2</provCode>
+		<tvg-id>rtp2-hd.pt</tvg-id>
+		<name>RTP 2 HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SIC</provCode>
 		<tvg-id>sic.pt</tvg-id>
 		<name>SIC</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>TVI</meoCode>
-		<tvg-id>TVI.pt</tvg-id>
+		<provCode>SIC H</provCode>
+		<tvg-id>sic-hd.pt</tvg-id>
+		<name>SIC HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>TVI</provCode>
+		<tvg-id>tvi.pt</tvg-id>
 		<name>TVI</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>RTP3</meoCode>
+		<provCode>TVI H</provCode>
+		<tvg-id>tvi-hd.pt</tvg-id>
+		<name>TVI HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>RTP3</provCode>
 		<tvg-id>rtp3.pt</tvg-id>
-		<name>RTP INFORMACAO</name>
+		<name>RTP 3</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SICN</meoCode>
+		<provCode>SICN</provCode>
 		<tvg-id>sicnoticias.pt</tvg-id>
 		<name>SIC NOTICIAS</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>TVI24</meoCode>
+		<provCode>TVI24</provCode>
 		<tvg-id>TVI24.pt</tvg-id>
-		<name>TVI24</name>
+		<name>TVI 24</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>CMTV</meoCode>
+		<provCode>CMTV</provCode>
 		<tvg-id>CMTV.pt</tvg-id>
-		<name>CM TV</name>
+		<name>CMTV</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>RTPM</meoCode>
+		<provCode>RTPM</provCode>
 		<tvg-id>rtpmemoria.pt</tvg-id>
 		<name>RTP MEMORIA</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>RTPA</meoCode>
+		<provCode>RTPA</provCode>
 		<tvg-id>RTPAfrica.pt</tvg-id>
 		<name>RTP AFRICA</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>RTPMD</meoCode>
+		<provCode>RTPMD</provCode>
 		<tvg-id>RTPMadeira.pt</tvg-id>
 		<name>RTP MADEIRA</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>RTPAC</meoCode>
+		<provCode>RTPAC</provCode>
 		<tvg-id>RTPAcores.pt</tvg-id>
 		<name>RTP ACORES</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>RTPIN</meoCode>
+		<provCode>RTPi.pt</provCode>
 		<tvg-id>RTPi.pt</tvg-id>
-		<name>RTP INTERNACIONAL</name>
+		<name>RTP INTERNACIONAL _net</name>
+		<provider>XML</provider>
 	</channel>
 	<channel>
-		<meoCode>TVIFIC</meoCode>
+		<provCode>TVIFIC</provCode>
 		<tvg-id>TVIFiccao.pt</tvg-id>
-		<name>TVI FICCAO</name>
+		<name>TVI Ficcao</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>PORTO</meoCode>
+		<provCode>PORTO</provCode>
 		<tvg-id>PortoCanal.pt</tvg-id>
 		<name>PORTO CANAL</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SICM</meoCode>
+		<provCode>SICM</provCode>
 		<tvg-id>sicmulher.pt</tvg-id>
 		<name>SIC MULHER</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-	   <meoCode>SICC</meoCode>
+	   <provCode>SICC</provCode>
 		<tvg-id>SICC</tvg-id>
 		<name>SIC CARAS</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SICR</meoCode>
+		<provCode>SICR</provCode>
 		<tvg-id>sicradical.pt</tvg-id>
 		<name>SIC RADICAL</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>AXN</meoCode>
+		<provCode>AXN</provCode>
 		<tvg-id>axn.pt</tvg-id>
 		<name>AXN</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>AXNBL</meoCode>
+		<provCode>AXNHD</provCode>
+		<tvg-id>axn-hd.pt</tvg-id>
+		<name>AXN HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>AXNBL</provCode>
 		<tvg-id>AXNBlack.pt</tvg-id>
 		<name>AXN BLACK</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>FLIFE</meoCode>
+		<provCode>FLIFE</provCode>
 		<tvg-id>foxlife.pt</tvg-id>
 		<name>FOX LIFE</name>
-        </channel> 
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>FOXCR</meoCode>
+		<provCode>FLIFEH</provCode>
+		<tvg-id>foxlife-hd.pt</tvg-id>
+		<name>FOX LIFE HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+		<provCode>FOXCR</provCode>
 		<tvg-id>foxcrime.pt</tvg-id>
 		<name>FOX CRIME</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>HOLLW</meoCode>
+		<provCode>HOLLW</provCode>
 		<tvg-id>hollywood.pt</tvg-id>
-		<name>HOLLYWOOD</name>
+		<name>HOLLYWOD</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>NGC</meoCode>
+		<provCode>HOLHD</provCode>
+		<tvg-id>hollywood-hd.pt</tvg-id>
+		<name>HOLLYWOD HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>NGC</provCode>
 		<tvg-id>nationalgeographic.pt</tvg-id>
-		<name>NAT GEO</name>
+		<name>NATIONAL GEOGRAFIC HD</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>DISCV</meoCode>
+		<provCode>DISCV</provCode>
 		<tvg-id>discoverychannel.pt</tvg-id>
-		<name>DISCOVERY</name>
+		<name>DISCOVERY CHANNEL</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>ODISS</meoCode>
+		<provCode>ODISS</provCode>
 		<tvg-id>odisseia.pt</tvg-id>
 		<name>ODISSEIA</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>HIST</meoCode>
+		<provCode>HIST</provCode>
 		<tvg-id>HistoryChannel.pt</tvg-id>
-		<name>HISTORIA</name>
+		<name>CANAL HISTORIA</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>PANDA</meoCode>
+		<provCode>PANDA</provCode>
 		<tvg-id>PANDA</tvg-id>
-		<name>PANDA</name>
-       	</channel>
+		<name>CANAL PANDA</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>DISNY</meoCode>
+		<provCode>DISNY</provCode>
 		<tvg-id>DisneyChannel.pt</tvg-id>
-		<name>DISNEY</name>
+		<name>Disney Channel</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-	    <meoCode>SCP</meoCode>
+	    <provCode>SCP</provCode>
 		<tvg-id>SCP</tvg-id>
 		<name>SPORTING TV</name>
-       	</channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>SPTV1</meoCode>
+		<provCode>SPTV1</provCode>
 		<tvg-id>sporttv1.pt</tvg-id>
 		<name>SPORT TV 1</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SPTV2</meoCode>
+		<provCode>SPT1HD</provCode>
+		<tvg-id>sporttv1-hd.pt</tvg-id>
+		<name>SPORT TV 1 HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SPT1HD</provCode>
+		<tvg-id>sporttv1-fhd.pt</tvg-id>
+		<name>SPORT TV 1 FULL HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SPTV2</provCode>
 		<tvg-id>sporttv2.pt</tvg-id>
 		<name>SPORT TV 2</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SPTV3</meoCode>
+		<provCode>SPT2HD</provCode>
+		<tvg-id>sporttv2-hd.pt</tvg-id>
+		<name>SPORT TV 2 HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SPTV3</provCode>
 		<tvg-id>sporttv3.pt</tvg-id>
 		<name>SPORT TV 3</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>SPTV4</meoCode>
+		<provCode>SPTV3HD</provCode>
+		<tvg-id>sporttv3-hd.pt</tvg-id>
+		<name>SPORT TV 3 HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+		<provCode>SPTV4</provCode>
 		<tvg-id>sporttv4.pt</tvg-id>
 		<name>SPORT TV 4</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SPTV5</meoCode>
+		<provCode>SPT4HD</provCode>
+		<tvg-id>sporttv4-hd.pt</tvg-id>
+		<name>SPORT TV 4 HD _externo</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SPTV5</provCode>
 		<tvg-id>sporttv5.pt</tvg-id>
 		<name>SPORT TV 5</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SLB</meoCode>
+		<provCode>SPT5HD</provCode>
+		<tvg-id>sporttv5-hd.pt</tvg-id>
+		<name>SPORT TV 5 HD _externo</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SLB</provCode>
 		<tvg-id>BenficaTV.pt</tvg-id>
-		<name>BENFICA TV</name>
+		<name>BTV 1</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SLB2</meoCode>
+		<provCode>SLBHD</provCode>
+		<tvg-id>BenficaTVhd.pt</tvg-id>
+		<name>BTV 1 HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SLBHD</provCode>
+		<tvg-id>BenficaTVFhd.pt</tvg-id>
+		<name>BTV 1 FULL HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>SLB2</provCode>
 		<tvg-id>BenficaTV2.pt</tvg-id>
 		<name>BENFICA TV2</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>AXNWH</meoCode>
+		<provCode>AXNWH</provCode>
 		<tvg-id>AXNWhite.pt</tvg-id>
 		<name>AXN WHITE</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>SYFY</meoCode>
+		<provCode>SYFY</provCode>
 		<tvg-id>SyFy.pt</tvg-id>
-		<name>SYFY</name>
+		<name>SyFy</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>DISNYJ</meoCode>
+		<provCode>DISNYJ</provCode>
 		<tvg-id>DISNEY JR</tvg-id>
-		<name>DISNEY JR</name>
+		<name>DISNEY JUNIOR</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>EURSP</meoCode>
+		<provCode>EURSP</provCode>
 		<tvg-id>eurosport.pt</tvg-id>
-		<name>EUROSPORT (POR)</name>
-        </channel>
+		<name>EUROSPORT 1</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>EURS2</meoCode>
+		<provCode>EURS2</provCode>
 		<tvg-id>eurosport2.pt</tvg-id>
 		<name>EUROSPORT 2</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>AE</meoCode>
+		<provCode>AE</provCode>
 		<tvg-id>AE</tvg-id>
-		<name>AE</name>
-        </channel>
+		<name>A&#038;E</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>ABOLA</meoCode>
+		<provCode>ABOLA</provCode>
 		<tvg-id>ABolaTV.pt</tvg-id>
-		<name>A BOLA TV</name>
-        </channel>
+		<name>A Bola TV</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>TVC1</meoCode>
+		<provCode>TVC1</provCode>
 		<tvg-id>TVC1</tvg-id>
-		<name>TVC1</name>
-        </channel>
+		<name>TVCine 1</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>TVC2</meoCode>
+		<provCode>TVC2</provCode>
 		<tvg-id>TVC2</tvg-id>
-		<name>TVC2</name>
-        </channel>
+		<name>TVCine 2</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>TVC3</meoCode>
+		<provCode>TVC3</provCode>
 		<tvg-id>TVC3</tvg-id>
-		<name>TVC3</name>
-        </channel>
+		<name>TVCine 3</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>TVC4</meoCode>
+		<provCode>TVC4</provCode>
 		<tvg-id>TVC4</tvg-id>
-		<name>TVC4</name>
-        </channel>
+		<name>TVCine 4</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-                <meoCode>TVSER</meoCode>
+        <provCode>TVSER</provCode>
 		<tvg-id>TVSER</tvg-id>
-		<name>TV SERIES</name>
-        </channel>
+		<name>TVSeries</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>SCP</meoCode>
+        <provCode>TVSEHD</provCode>
+		<tvg-id>TVSEHD</tvg-id>
+		<name>TVSERIES HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+		<provCode>SCP</provCode>
 		<tvg-id>SPORTINGTV.pt</tvg-id>
 		<name>SPORTING TV</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>MTV</meoCode>
+		<provCode>SCPHD</provCode>
+		<tvg-id>SPORTINGTVHD.pt</tvg-id>
+		<name>SPORTING TV HD _externo</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+		<provCode>MTV</provCode>
 		<tvg-id>mtvportugal.pt</tvg-id>
-		<name>MTV</name>
-        </channel>
+		<name>MTV PORTUGAL</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>VH1</meoCode>
+		<provCode>VH1</provCode>
 		<tvg-id>VH1</tvg-id>
 		<name>VH1</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>FOX</meoCode>
+		<provCode>FOX</provCode>
 		<tvg-id>fox.pt</tvg-id>
-		<name>FOX</name>
-        </channel>
+		<name>FOX HD</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-	    <meoCode>FOXCOM</meoCode>
+	    <provCode>FOXCOM</provCode>
 		<tvg-id>FOXCOM</tvg-id>
 		<name>FOX COMEDY</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>TLC</meoCode>
+		<provCode>TLC</provCode>
 		<tvg-id>tlc</tvg-id>
 		<name>TLC</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>SICK</meoCode>
+		<provCode>SICK</provCode>
 		<tvg-id>sick</tvg-id>
-		<name>SICK</name>
-        </channel>
+		<name>SIC K</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>Q</meoCode>
+		<provCode>Q</provCode>
 		<tvg-id>Q</tvg-id>
 		<name>CANAL Q</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>CINE</meoCode>
+		<provCode>CINE</provCode>
 		<tvg-id>CINE</tvg-id>
 		<name>CINEMUNDO</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>FOXM</meoCode>
+		<provCode>FOXM</provCode>
 		<tvg-id>FOXM</tvg-id>
 		<name>FOX MOVIES</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>CBSR</meoCode>
+		<provCode>CBSR</provCode>
 		<tvg-id>CBSR</tvg-id>
-		<name>CBS REALITY</name>
-        </channel>
+		<name>CBS Reality</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>CART</meoCode>
+		<provCode>CART</provCode>
 		<tvg-id>CART</tvg-id>
-		<name>CN</name>
-        </channel>
+		<name>CARTOON Network</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>FX</meoCode>
+		<provCode>FX</provCode>
 		<tvg-id>FX</tvg-id>
 		<name>FX</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>JJAM</meoCode>
+		<provCode>JJAM</provCode>
 		<tvg-id>JJAM</tvg-id>
-		<name>JIM JAM</name>
-        </channel>
+		<name>Jim Jam</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>RECNEW</meoCode>
+		<provCode>RECNEW</provCode>
 		<tvg-id>RECNEW</tvg-id>
 		<name>RECORD NEWS</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>PLAY</meoCode>
+		<provCode>PLAY</provCode>
 		<tvg-id>PLAY</tvg-id>
 		<name>PLAYBOY</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>VENUS</meoCode>
+		<provCode>VENUS</provCode>
 		<tvg-id>VENUS</tvg-id>
-		<name>VENUS</name>
-        </channel>
+		<name>Venus</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>HOT</meoCode>
+		<provCode>HOT</provCode>
 		<tvg-id>HOT</tvg-id>
 		<name>HOT</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>BIGGS</meoCode>
+		<provCode>BIGGS</provCode>
 		<tvg-id>BIGGS</tvg-id>
 		<name>PANDA BIGGS</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>ETVHD</meoCode>
+		<provCode>ETVHD</provCode>
 		<tvg-id>EconomicaTV.pt</tvg-id>
 		<name>ECONOMICO TV</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>EURN</meoCode>
+		<provCode>EURN</provCode>
 		<tvg-id>Euronews.nws</tvg-id>
 		<name>EURONEWS</name>
+		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<meoCode>ARTV</meoCode>
+		<provCode>ARTV</provCode>
 		<tvg-id>ARTV.pt</tvg-id>
 		<name>CANAL PARLAMENTO</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>TPA</meoCode>
+		<provCode>TPA</provCode>
 		<tvg-id>TPA</tvg-id>
 		<name>TPA</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-		<meoCode>MUTV</meoCode>
+		<provCode>MUTV</provCode>
 		<tvg-id>ManUTV.pt</tvg-id>
 		<name>Manchester United TV</name>
-        </channel>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-                <meoCode>GLOBO</meoCode>
+        <provCode>GLOBO</provCode>
 		<tvg-id>GLOBO</tvg-id>
-		<name>GLOBO</name>
-        </channel>
+		<name>TV GLOBO PORTUGAL</name>
+        <provider>MEO</provider>
+    </channel>
 	<channel>
-                <meoCode>PFC</meoCode>
+        <provCode>PFC</provCode>
 		<tvg-id>PFC</tvg-id>
 		<name>PFC</name>
+	   <provider>MEO</provider>
 	</channel>
-	<channel> 
-	        <meoCode>TVREC</meoCode>
+	<channel>
+	    <provCode>TVREC</provCode>
 		<tvg-id>TV RECORD</tvg-id>
 		<name>TV RECORD</name>
+		<provider>MEO</provider>
 	</channel>
+	<channel>
+	    <provCode>BABYT</provCode>
+		<tvg-id>BabyTV</tvg-id>
+		<name>Baby TV</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>RMTV</provCode>
+		<tvg-id>RealMadridTV</tvg-id>
+		<name>Real Madrid TV</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>AMC</provCode>
+		<tvg-id>amc.pt</tvg-id>
+		<name>AMC</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>AMCHD</provCode>
+		<tvg-id>amc-hd.pt</tvg-id>
+		<name>AMC HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>E!</provCode>
+		<tvg-id>e-entertainment.pt</tvg-id>
+		<name>E!</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>E! HD</provCode>
+		<tvg-id>e-entertainment-hd.pt</tvg-id>
+		<name>E! HD</name>
+		<provider>MEO</provider>
+	</channel>
+    <channel>
+        <provCode>nick</provCode>
+        <tvg-id>nickelodeon.pt</tvg-id>
+        <name>NICKELODEON</name>
+        <provider>XML</provider>
+    </channel>
 </channelList>
