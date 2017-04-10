@@ -137,8 +137,8 @@ for channel in channels:
             desc = program.getElementsByTagName('Description')[0]
             startTime = program.getElementsByTagName('StartTime')[0]
             endTime = program.getElementsByTagName('EndTime')[0]
-            sTime=str(startTime.firstChild.data).translate(None,'-: ')+" +0100"
-            eTime=str(endTime.firstChild.data).translate(None,'-: ')+" +0100"
+            sTime=str(startTime.firstChild.data).translate(None,'-: ')+" +0200" # DST: +0100
+            eTime=str(endTime.firstChild.data).translate(None,'-: ')+" +0200" # DST: +0100
             n=n+1
             if log>1:
                 print "      Title: ",title.firstChild.data.encode('UTF-8'),"\n    Desc: ",desc.firstChild.data.encode('UTF-8'),"\n    Start: ",startTime.firstChild.data," ",sTime,"\n    End: ",endTime.firstChild.data," ",eTime
@@ -153,8 +153,8 @@ for channel in channels:
     elif provider.firstChild.data == 'XML':
         programs = root.findall("./programme[@channel='"+provCode.firstChild.data+"']")
         for program in programs:
-            program.set('start', program.get('start').replace('+0000','+0100'))
-            program.set('stop', program.get('stop').replace('+0000','+0100'))
+            program.set('start', program.get('start').replace('+0100','+0200'))
+            program.set('stop', program.get('stop').replace('+0100','+0200'))
             if log>1:
                 print "      Title: ",program.find('title').text.encode('UTF-8'),"\n    Desc: ",program.find('desc').text.encode('UTF-8'),"\n    Start: ",program.get('start'),"\n    End: ",program.get('end')
                 print "      --------------"

@@ -145,9 +145,9 @@
 		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<provCode>AXNBL</provCode>
-		<tvg-id>AXNBlack.pt</tvg-id>
-		<name>AXN BLACK</name>
+		<provCode>AXBHD</provCode>
+		<tvg-id>AXNBlack-hd.pt</tvg-id>
+		<name>AXN BLACK HD</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -169,6 +169,12 @@
 		<provider>MEO</provider>
 	</channel>
 	<channel>
+		<provCode>FOXCHD</provCode>
+		<tvg-id>foxcrime-hd.pt</tvg-id>
+		<name>FOX CRIME HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
 		<provCode>HOLLW</provCode>
 		<tvg-id>hollywood.pt</tvg-id>
 		<name>HOLLYWOD</name>
@@ -177,13 +183,19 @@
 	<channel>
 		<provCode>HOLHD</provCode>
 		<tvg-id>hollywood-hd.pt</tvg-id>
-		<name>HOLLYWOD HD</name>
+		<name>Hollywood HD</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
 		<provCode>NGC</provCode>
 		<tvg-id>nationalgeographic.pt</tvg-id>
 		<name>NATIONAL GEOGRAFIC HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+		<provCode>NGWIL</provCode>
+		<tvg-id>nationalgeographicwild.pt</tvg-id>
+		<name>NAT GEO WILD</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -223,6 +235,12 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
+		<provCode>SCPHD</provCode>
+		<tvg-id>SPORTINGTVHD.pt</tvg-id>
+		<name>SPORTINH TV HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
 		<provCode>SPTV1</provCode>
 		<tvg-id>sporttv1.pt</tvg-id>
 		<name>SPORT TV 1</name>
@@ -231,7 +249,7 @@
 	<channel>
 		<provCode>SPT1HD</provCode>
 		<tvg-id>sporttv1-hd.pt</tvg-id>
-		<name>SPORT TV 1 HD</name>
+		<name>SPORT TV 1 HD 720p</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -249,7 +267,7 @@
 	<channel>
 		<provCode>SPT2HD</provCode>
 		<tvg-id>sporttv2-hd.pt</tvg-id>
-		<name>SPORT TV 2 HD</name>
+		<name>SPORT TV 2 HD 720p</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -259,7 +277,7 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
-		<provCode>SPTV3HD</provCode>
+		<provCode>SPT3HD</provCode>
 		<tvg-id>sporttv3-hd.pt</tvg-id>
 		<name>SPORT TV 3 HD</name>
         <provider>MEO</provider>
@@ -273,7 +291,7 @@
 	<channel>
 		<provCode>SPT4HD</provCode>
 		<tvg-id>sporttv4-hd.pt</tvg-id>
-		<name>SPORT TV 4 HD _externo</name>
+		<name>SPORT TV 4 HD EXTERNO</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -285,7 +303,7 @@
 	<channel>
 		<provCode>SPT5HD</provCode>
 		<tvg-id>sporttv5-hd.pt</tvg-id>
-		<name>SPORT TV 5 HD _externo</name>
+		<name>SPORT TV 5 HD EXTERNO</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -307,21 +325,15 @@
 		<provider>MEO</provider>
 	</channel>
 	<channel>
-		<provCode>SLB2</provCode>
-		<tvg-id>BenficaTV2.pt</tvg-id>
-		<name>BENFICA TV2</name>
-		<provider>MEO</provider>
-	</channel>
-	<channel>
 		<provCode>AXNWH</provCode>
 		<tvg-id>AXNWhite.pt</tvg-id>
-		<name>AXN WHITE</name>
+		<name>AXN WHITE HD</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
 		<provCode>SYFY</provCode>
-		<tvg-id>SyFy.pt</tvg-id>
-		<name>SyFy</name>
+		<tvg-id>Syfy.pt</tvg-id>
+		<name>Syfy</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -337,6 +349,12 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
+		<provCode>EURHD</provCode>
+		<tvg-id>eurosport-hd.pt</tvg-id>
+		<name>EUROSPORT 1 HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
 		<provCode>EURS2</provCode>
 		<tvg-id>eurosport2.pt</tvg-id>
 		<name>EUROSPORT 2</name>
@@ -345,7 +363,7 @@
 	<channel>
 		<provCode>AE</provCode>
 		<tvg-id>AE</tvg-id>
-		<name>A&#038;E</name>
+		<name>AEE</name>
         <provider>MEO</provider>
     </channel>
 	<channel>
@@ -361,9 +379,21 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
+		<provCode>TVC1HD</provCode>
+		<tvg-id>TVC1HD</tvg-id>
+		<name>TVCINE 1 HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
 		<provCode>TVC2</provCode>
 		<tvg-id>TVC2</tvg-id>
 		<name>TVCine 2</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+		<provCode>TVC2HD</provCode>
+		<tvg-id>TVC2HD</tvg-id>
+		<name>TVCINE 2 HD</name>
         <provider>MEO</provider>
     </channel>
 	<channel>
@@ -373,9 +403,21 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
+		<provCode>TVC3HD</provCode>
+		<tvg-id>TVC3HD</tvg-id>
+		<name>TVCINE 3 HD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
 		<provCode>TVC4</provCode>
 		<tvg-id>TVC4</tvg-id>
 		<name>TVCine 4</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+		<provCode>TVC4HD</provCode>
+		<tvg-id>TVC4HD</tvg-id>
+		<name>TVCINE 4 HD</name>
         <provider>MEO</provider>
     </channel>
 	<channel>
@@ -388,12 +430,6 @@
         <provCode>TVSEHD</provCode>
 		<tvg-id>TVSEHD</tvg-id>
 		<name>TVSERIES HD</name>
-        <provider>MEO</provider>
-    </channel>
-	<channel>
-		<provCode>SCP</provCode>
-		<tvg-id>SPORTINGTV.pt</tvg-id>
-		<name>SPORTING TV</name>
         <provider>MEO</provider>
     </channel>
 	<channel>
@@ -423,7 +459,13 @@
 	<channel>
 	    <provCode>FOXCOM</provCode>
 		<tvg-id>FOXCOM</tvg-id>
-		<name>FOX COMEDY</name>
+		<name>FOX COMEDY SD</name>
+        <provider>MEO</provider>
+    </channel>
+	<channel>
+	    <provCode>FOXCOH</provCode>
+		<tvg-id>FOXCOH</tvg-id>
+		<name>FOX COMEDY HD</name>
         <provider>MEO</provider>
     </channel>
 	<channel>
@@ -469,12 +511,6 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
-		<provCode>FX</provCode>
-		<tvg-id>FX</tvg-id>
-		<name>FX</name>
-        <provider>MEO</provider>
-    </channel>
-	<channel>
 		<provCode>JJAM</provCode>
 		<tvg-id>JJAM</tvg-id>
 		<name>Jim Jam</name>
@@ -511,12 +547,6 @@
         <provider>MEO</provider>
     </channel>
 	<channel>
-		<provCode>ETVHD</provCode>
-		<tvg-id>EconomicaTV.pt</tvg-id>
-		<name>ECONOMICO TV</name>
-		<provider>MEO</provider>
-	</channel>
-	<channel>
 		<provCode>EURN</provCode>
 		<tvg-id>Euronews.nws</tvg-id>
 		<name>EURONEWS</name>
@@ -532,12 +562,6 @@
 		<provCode>TPA</provCode>
 		<tvg-id>TPA</tvg-id>
 		<name>TPA</name>
-        <provider>MEO</provider>
-    </channel>
-	<channel>
-		<provCode>MUTV</provCode>
-		<tvg-id>ManUTV.pt</tvg-id>
-		<name>Manchester United TV</name>
         <provider>MEO</provider>
     </channel>
 	<channel>
@@ -559,10 +583,22 @@
 		<provider>MEO</provider>
 	</channel>
 	<channel>
+	    <provCode>REC HD</provCode>
+		<tvg-id>TV RECORD HD</tvg-id>
+		<name>TV RECORD HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
 	    <provCode>BABYT</provCode>
 		<tvg-id>BabyTV</tvg-id>
 		<name>Baby TV</name>
 		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>BABYT</provCode>
+		<tvg-id>BabyFirstTV</tvg-id>
+		<name>BABY FIRST</name>
+		<provider>XML</provider>
 	</channel>
 	<channel>
 	    <provCode>RMTV</provCode>
@@ -600,4 +636,82 @@
         <name>NICKELODEON</name>
         <provider>XML</provider>
     </channel>
+<channel>
+	    <provCode>24KITC</provCode>
+		<tvg-id>24kitchen.pt</tvg-id>
+		<name>24 KITCHEN SD)</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>24KITC</provCode>
+		<tvg-id>24kitchen-hd.pt</tvg-id>
+		<name>24 KITCHEN HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>TRAV</provCode>
+		<tvg-id>travel.pt</tvg-id>
+		<name>TRAVEL CHANNEL HD</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>MOTORS</provCode>
+		<tvg-id>motorsport.tv</tvg-id>
+		<name>Motors TV</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>TOROTV</provCode>
+		<tvg-id>torotv.tv</tvg-id>
+		<name>TOROS TV</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>MCM P</provCode>
+		<tvg-id>mcm-pop.tv</tvg-id>
+		<name>MCM POP</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>C-MUS</provCode>
+		<tvg-id>cmusic.tv</tvg-id>
+		<name>C-Music</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>AFRO</provCode>
+		<tvg-id>afro.tv</tvg-id>
+		<name>Afro Music</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>BBC E</provCode>
+		<tvg-id>bbce.tv</tvg-id>
+		<name>BBC ENTERTAINMENT</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>BBC W</provCode>
+		<tvg-id>bbcw.tv</tvg-id>
+		<name>BBC WORLD NEWS</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>EURSN</provCode>
+		<tvg-id>eurosportnews.tv</tvg-id>
+		<name>EUROSPORT NEWS</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>ICOHD</provCode>
+		<tvg-id>iconcerts.tv</tvg-id>
+		<name>ICONCERTS</name>
+		<provider>MEO</provider>
+	</channel>
+	<channel>
+	    <provCode>CNN</provCode>
+		<tvg-id>cnn.tv</tvg-id>
+		<name>CNN</name>
+		<provider>MEO</provider>
+	</channel>
 </channelList>
