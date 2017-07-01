@@ -249,7 +249,7 @@
 	<channel>
 		<provCode>SPT1HD</provCode>
 		<tvg-id>sporttv1-hd.pt</tvg-id>
-		<name>SPORT TV 1 HD 720p</name>
+		<name>SPORT TV 1 HD</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
@@ -267,7 +267,7 @@
 	<channel>
 		<provCode>SPT2HD</provCode>
 		<tvg-id>sporttv2-hd.pt</tvg-id>
-		<name>SPORT TV 2 HD 720p</name>
+		<name>SPORT TV 2 HD</name>
 		<provider>MEO</provider>
 	</channel>
 	<channel>
