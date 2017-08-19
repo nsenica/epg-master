@@ -169,8 +169,8 @@ for channel in channels:
         programs = root.findall("./programme[@channel='"+provCode.firstChild.data+"']")
         for tvgID in tvgIDs:
             for program in programs:
-                program.set('start', program.get('start').replace('+0100','+0200'))
-                program.set('stop', program.get('stop').replace('+0100','+0200'))
+                program.set('start', program.get('start') + " +0200") #.replace('+0100','+0200'))
+                program.set('stop', program.get('stop') + " +0200") #.replace('+0100','+0200'))
                 if log>1:
                     print "      Title: ",program.find('title').text.encode('UTF-8'),"\n    Desc: ",program.find('desc').text.encode('UTF-8'),"\n    Start: ",program.get('start'),"\n    End: ",program.get('end')
                     print "      --------------"
