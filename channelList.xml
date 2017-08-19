@@ -73,7 +73,7 @@
         <tvg-id name="Cartoon Network">CART</tvg-id>
         <provider>MEO</provider>
     </channel>
- <!--   <channel>
+    <channel>
         <provCode>CAÇAP</provCode>
         <tvg-id name="Caça e Pesca">cacaepesca.pt</tvg-id>
         <provider>MEO</provider>
@@ -82,7 +82,7 @@
         <provCode>CAÇAV</provCode>
         <tvg-id name="Caçavision">cacavision.pt</tvg-id>
         <provider>MEO</provider>
-    </channel> -->
+    </channel>
     <channel>
         <provCode>CBSR</provCode>
         <tvg-id name="CBS Reality">cbsreality.pt</tvg-id>
@@ -137,6 +137,16 @@
         <provider>MEO</provider>
     </channel>
     <channel>
+        <provCode>Fightbox</provCode>
+        <tvg-id name="Fight Box">fightbox.tv</tvg-id>
+        <provider>XML</provider>
+    </channel>
+    <channel>
+        <provCode>FightNetwork</provCode>
+        <tvg-id name="Fight Network">fightnetwork.tv</tvg-id>
+        <provider>XML</provider>
+    </channel>
+    <channel>
         <provCode>FOOD</provCode>
         <tvg-id name="Food Network">foodnetwork.tv</tvg-id>
         <provider>MEO</provider>
@@ -165,6 +175,11 @@
         <provCode>FOXM</provCode>
         <tvg-id name="FoxMovies">FOXM</tvg-id>
         <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>FuelTV</provCode>
+        <tvg-id name="Fuel TV">FuelTV</tvg-id>
+        <provider>XML</provider>
     </channel>
     <channel>
         <provCode>FR24I</provCode>
@@ -217,6 +232,11 @@
         <provCode>MOTORS</provCode>
         <tvg-id name="Motors TV">motorsport.tv</tvg-id>
         <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>MOTORVISION</provCode>
+        <tvg-id name="Motorvision HD">motorvision-hd.tv</tvg-id>
+        <provider>XML</provider>
     </channel>
     <channel>
         <provCode>MTV</provCode>
@@ -295,7 +315,7 @@
     </channel>
     <channel>
         <provCode>RTP3</provCode>
-        <tvg-id name="RTP3 HD">rtp3-hd.pt</tvg-id>
+        <tvg-id name="RTP 3 HD">rtp3-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -322,7 +342,7 @@
         <provCode>SIC</provCode>
         <tvg-id name="SIC HD">sic-hd.pt</tvg-id>
         <tvg-id name="SIC (LQ)">sic-lq.pt</tvg-id>
-        <tvg-id name="SIC Full HD">sic-fhd.pt</tvg-id>
+        <tvg-id name="SIC FullHD">sic-fhd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -471,7 +491,7 @@
     </channel>
     <channel>
         <provCode>TVIFIC</provCode>
-        <tvg-id name="TVI Ficcao">TVIFiccao.pt</tvg-id>
+        <tvg-id name="TVI Ficção">TVIFiccao.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>

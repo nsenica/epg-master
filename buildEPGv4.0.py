@@ -116,15 +116,17 @@ for channel in channels:
             continue
 
 
-        name = tvgID.getAttribute('name')
+        name = tvgID.getAttribute('name').encode('utf-8')
 
         if name is None:
             if log>0:
                 print "  Provider is empty"
             continue
 
+        print name
+
         if log>0:
-            print "  ProvCode: <{0}>  TVG: <{1}>  Name: <{2}> Provider: <{3}>".format(provCode.firstChild.data,tvgID.firstChild.data,name,provider.firstChild.data)
+            print "  ProvCode: <{0}>  TVG: <{1}>  Name: <{2}> Provider: <{3}>".format(provCode.firstChild.data.encode('utf-8'),tvgID.firstChild.data,name,provider.firstChild.data)
 
         # add channel info to epgfile
         epgFile.write('\t<channel id="{0}">\n'.format(tvgID.firstChild.data))
@@ -132,7 +134,7 @@ for channel in channels:
         epgFile.write('\t</channel>\n')
 
     #format link to web-service
-    link = url.format(provCode.firstChild.data, sDate, eDate)
+    link = url.format(provCode.firstChild.data.encode('utf-8'), sDate, eDate)
     if log>1: print "    Link: {0}".format(link)
 
     n=0
