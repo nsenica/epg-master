@@ -117,6 +117,7 @@ for channel in channels:
 
 
         name = tvgID.getAttribute('name').encode('utf-8')
+        icon = tvgID.getAttribute('icon')
 
         if name is None:
             if log>0:
@@ -131,6 +132,8 @@ for channel in channels:
         # add channel info to epgfile
         epgFile.write('\t<channel id="{0}">\n'.format(tvgID.firstChild.data))
         epgFile.write('\t\t<display-name>{0}</display-name>\n'.format(name))
+        if icon:
+            epgFile.write('\t\t<icon src="{0}" />\n'.format(icon))
         epgFile.write('\t</channel>\n')
 
     #format link to web-service

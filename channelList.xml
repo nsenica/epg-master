@@ -2,138 +2,138 @@
 <channelList>
     <channel>
         <provCode>24KITC</provCode>
-        <tvg-id name="24 Kitchen HD">24kitchen.pt</tvg-id>
+        <tvg-id name="24 Kitchen HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/24-kitchen-hd.png">24kitchen.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>ABOLA</provCode>
-        <tvg-id name="A Bola TV">ABolaTV.pt</tvg-id>
+        <tvg-id name="A Bola TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/a-bola-tv.png">ABolaTV.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AE</provCode>
-        <tvg-id name="AandE">AE</tvg-id>
+        <tvg-id name="AandE" icon="https://www.meo.pt/PublishingImages/MEO/canais/aee.png">AE</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AFRO</provCode>
-        <tvg-id name="Afro Music">afro.tv</tvg-id>
+        <tvg-id name="Afro Music" icon="https://www.meo.pt/PublishingImages/MEO/canais/afro-music.png">afro.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AMC</provCode>
-        <tvg-id name="AMC">amc.pt</tvg-id>
+        <tvg-id name="AMC" icon="https://www.meo.pt/PublishingImages/MEO/canais/amc.png">amc.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AXN</provCode>
-        <tvg-id name="AXN">axn.pt</tvg-id>
-        <tvg-id name="AXN HD">axn-hd.pt</tvg-id>
-        <tvg-id name="AXN (LQ)">axn-lq.pt</tvg-id>
+        <tvg-id name="AXN" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn.png">axn.pt</tvg-id>
+        <tvg-id name="AXN HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn-hd.png">axn-hd.pt</tvg-id>
+        <tvg-id name="AXN (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn.png">axn-lq.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AXBHD</provCode>
-        <tvg-id name="AXN Black">AXNBlack.pt</tvg-id>
-        <tvg-id name="AXN Black HD">AXNBlack-hd.pt</tvg-id>
-        <tvg-id name="AXN Black (LQ)">AXNBlack-lq.pt</tvg-id>
+        <tvg-id name="AXN Black" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn-black.png">AXNBlack.pt</tvg-id>
+        <tvg-id name="AXN Black HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn-black-hd.png">AXNBlack-hd.pt</tvg-id>
+        <tvg-id name="AXN Black (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn-black.png">AXNBlack-lq.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AXNWH</provCode>
-        <tvg-id name="AXN White">AXNWhite.pt</tvg-id>
-        <tvg-id name="AXN White HD">AXNWhite-hd.pt</tvg-id>
+        <tvg-id name="AXN White" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn-white.png">AXNWhite.pt</tvg-id>
+        <tvg-id name="AXN White HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/axn-white-hd.png">AXNWhite-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>BABYT</provCode>
-        <tvg-id name="Baby TV">BabyTV</tvg-id>
+        <tvg-id name="Baby TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/baby-tv.png">BabyTV</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>BARCA</provCode>
-        <tvg-id name="Barca TV">BarcaTV</tvg-id>
+        <tvg-id name="Barca TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/barca-tv.png">BarcaTV</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SLB</provCode>
-        <tvg-id name="BTV">BenficaTV.pt</tvg-id>
-        <tvg-id name="BTV (LQ)">BenficaTV-lq.pt</tvg-id>
-        <tvg-id name="BTV HD">BenficaTV-hd.pt</tvg-id>
-        <tvg-id name="BTV Full HD">BenficaTV-fhd.pt</tvg-id>
+        <tvg-id name="BTV" icon="https://www.meo.pt/PublishingImages/MEO/canais/btv.png">BenficaTV.pt</tvg-id>
+        <tvg-id name="BTV (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/btv.png">BenficaTV-lq.pt</tvg-id>
+        <tvg-id name="BTV HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/btv-hd.png">BenficaTV-hd.pt</tvg-id>
+        <tvg-id name="BTV Full HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/btv-hd.png">BenficaTV-fhd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>Q</provCode>
-        <tvg-id name="Canal Q">Q</tvg-id>
+        <tvg-id name="Canal Q" icon="https://www.meo.pt/PublishingImages/MEO/canais/q.png">Q</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>CART</provCode>
-        <tvg-id name="Cartoon Network">CART</tvg-id>
+        <tvg-id name="Cartoon Network" icon="https://www.meo.pt/PublishingImages/MEO/canais/cartoon-network.png">CART</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>CAÇAP</provCode>
-        <tvg-id name="Caça e Pesca">cacaepesca.pt</tvg-id>
+        <tvg-id name="Caça e Pesca" icon="https://www.meo.pt/PublishingImages/canais/caca-e-pesca.png">cacaepesca.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>CAÇAV</provCode>
-        <tvg-id name="Caçavision">cacavision.pt</tvg-id>
+        <tvg-id name="Caçavision" icon="https://www.meo.pt/PublishingImages/canais/cacavision.png">cacavision.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>CBSR</provCode>
-        <tvg-id name="CBS Reality">cbsreality.pt</tvg-id>
+        <tvg-id name="CBS Reality" icon="https://www.meo.pt/PublishingImages/MEO/canais/cbs-reality.png">cbsreality.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>CINE</provCode>
-        <tvg-id name="Cinemundo">CINE</tvg-id>
+        <tvg-id name="Cinemundo" icon="https://www.meo.pt/PublishingImages/MEO/canais/cinemundo.png">CINE</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>CMTV</provCode>
-        <tvg-id name="CMTV">CMTV.pt</tvg-id>
-        <tvg-id name="CMTV (LQ)">CMTV-lq.pt</tvg-id>
+        <tvg-id name="CMTV" icon="https://www.meo.pt/PublishingImages/MEO/canais/cmtv.png">CMTV.pt</tvg-id>
+        <tvg-id name="CMTV (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/cmtv.png">CMTV-lq.pt</tvg-id>
         <name>CMTV</name>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>DISCV</provCode>
-        <tvg-id name="Discovery Channel">discoverychannel.pt</tvg-id>
+        <tvg-id name="Discovery Channel" icon="https://www.meo.pt/PublishingImages/MEO/canais/discovery-channel.png">discoverychannel.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>DISNY</provCode>
-        <tvg-id name="Disney Channel">DisneyChannel.pt</tvg-id>
+        <tvg-id name="Disney Channel" icon="https://www.meo.pt/PublishingImages/MEO/canais/disney-channel.png">DisneyChannel.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>DISNYJ</provCode>
-        <tvg-id name="Disney Junior">DISNEY JR</tvg-id>
+        <tvg-id name="Disney Junior" icon="https://www.meo.pt/PublishingImages/MEO/canais/disney-junior.png">DISNEY JR</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>E!</provCode>
-        <tvg-id name="E! Entertainment">e-entertainment.pt</tvg-id>
+        <tvg-id name="E! Entertainment" icon="https://www.meo.pt/PublishingImages/MEO/canais/e-entertainment.png">e-entertainment.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>EURSP</provCode>
-        <tvg-id name="Eurosport 1">eurosport.pt</tvg-id>
-        <tvg-id name="Eurosport 1 HD">eurosport-hd.pt</tvg-id>
+        <tvg-id name="Eurosport 1" icon="https://www.meo.pt/PublishingImages/MEO/canais/eurosport.png">eurosport.pt</tvg-id>
+        <tvg-id name="Eurosport 1 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/eurosport-hd.png">eurosport-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>EURS2</provCode>
-        <tvg-id name="Eurosport 2">eurosport2.pt</tvg-id>
+        <tvg-id name="Eurosport 2" icon="https://www.meo.pt/PublishingImages/canais/eurosport-2.png">eurosport2.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>EURSN</provCode>
-        <tvg-id name="Eurosport News">eurosportnews.tv</tvg-id>
+        <tvg-id name="Eurosport News" icon="https://www.meo.pt/PublishingImages/canais/eurosport-news.png">eurosportnews.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -148,89 +148,89 @@
     </channel>
     <channel>
         <provCode>FOOD</provCode>
-        <tvg-id name="Food Network">foodnetwork.tv</tvg-id>
+        <tvg-id name="Food Network" icon="https://www.meo.pt/PublishingImages/canais/food-network.png">foodnetwork.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>FOX</provCode>
-        <tvg-id name="Fox HD">fox.pt</tvg-id>
+        <tvg-id name="Fox HD" icon="https://www.meo.pt/PublishingImages/canais/fox-hd.png">fox.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>FOXCOM</provCode>
-        <tvg-id name="FoxComedy">FOXCOM</tvg-id>
+        <tvg-id name="FoxComedy" icon="https://www.meo.pt/PublishingImages/canais/fox-comedy.png">FOXCOM</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>FOXCR</provCode>
-        <tvg-id name="FoxCrime">foxcrime.pt</tvg-id>
+        <tvg-id name="FoxCrime" icon="https://www.meo.pt/PublishingImages/canais/fox-crime.png">foxcrime.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>FLIFE</provCode>
-        <tvg-id name="FoxLife HD">foxlife.pt</tvg-id>
+        <tvg-id name="FoxLife HD" icon="https://www.meo.pt/PublishingImages/canais/fox-life-hd.png">foxlife.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>FOXM</provCode>
-        <tvg-id name="FoxMovies">FOXM</tvg-id>
+        <tvg-id name="FoxMovies" icon="https://www.meo.pt/PublishingImages/canais/fox-movies.png">FOXM</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>FuelTV</provCode>
-        <tvg-id name="Fuel TV">FuelTV</tvg-id>
+        <tvg-id name="Fuel TV" icon="https://www.meo.pt/PublishingImages/canais/fuel-tv.png">FuelTV</tvg-id>
         <provider>XML</provider>
     </channel>
     <channel>
         <provCode>FR24I</provCode>
-        <tvg-id name="France 24 HD">france24-hd.pt</tvg-id>
+        <tvg-id name="France 24 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/france-24-i.png">france24-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>HIST</provCode>
-        <tvg-id name="Historia">HistoryChannel.pt</tvg-id>
+        <tvg-id name="Historia" icon="https://www.meo.pt/PublishingImages/MEO/canais/historia.png">HistoryChannel.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>HOLLW</provCode>
-        <tvg-id name="Hollywood">hollywood.pt</tvg-id>
-        <tvg-id name="Hollywood (LQ)">hollywood-lq.pt</tvg-id>
-        <tvg-id name="Hollywood HD">hollywood-hd.pt</tvg-id>
+        <tvg-id name="Hollywood" icon="https://www.meo.pt/PublishingImages/MEO/canais/hollywood.png">hollywood.pt</tvg-id>
+        <tvg-id name="Hollywood (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/hollywood.png">hollywood-lq.pt</tvg-id>
+        <tvg-id name="Hollywood HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/hollywood-hd.png">hollywood-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>HOT</provCode>
-        <tvg-id name="Hot">HOT</tvg-id>
+        <tvg-id name="Hot" icon="https://www.meo.pt/PublishingImages/MEO/canais/hot.png">HOT</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>JJAM</provCode>
-        <tvg-id name="JimJam">JJAM</tvg-id>
+        <tvg-id name="JimJam" icon="https://www.meo.pt/PublishingImages/MEO/canais/jimjam.png">JJAM</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>KOMBAT</provCode>
-        <tvg-id name="Kombat Sports">kombatsports.pt</tvg-id>
+        <tvg-id name="Kombat Sports" icon="https://www.meo.pt/PublishingImages/MEO/canais/kombat-sport.png">kombatsports.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>MCM P</provCode>
-        <tvg-id name="MCM Pop">mcm-pop.tv</tvg-id>
+        <tvg-id name="MCM Pop" icon="https://www.meo.pt/PublishingImages/MEO/canais/mcm-pop.png">mcm-pop.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>MCM T</provCode>
-        <tvg-id name="MCM Top">mcm-top.tv</tvg-id>
+        <tvg-id name="MCM Top" icon="https://www.meo.pt/PublishingImages/MEO/canais/mcm-top.png">mcm-top.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>MCSE</provCode>
-        <tvg-id name="MCS Extreme">mcs-extreme.pt</tvg-id>
+        <tvg-id name="MCS Extreme" icon="https://www.meo.pt/PublishingImages/MEO/canais/mcs-extreme.png">mcs-extreme.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>MOTORS</provCode>
-        <tvg-id name="Motors TV">motorsport.tv</tvg-id>
+        <tvg-id name="Motors TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/motors-tv.png">motorsport.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -240,268 +240,268 @@
     </channel>
     <channel>
         <provCode>MTV</provCode>
-        <tvg-id name="MTV Portugal">mtvportugal.pt</tvg-id>
+        <tvg-id name="MTV Portugal" icon="https://www.meo.pt/PublishingImages/MEO/canais/mtv-portugal.png">mtvportugal.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>NGWIL</provCode>
-        <tvg-id name="National Geo Wild HD">nationalgeographicwild-hd.pt</tvg-id>
-        <tvg-id name="National Geographic Wild">nationalgeographicwild.pt</tvg-id>
+        <tvg-id name="National Geo Wild HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/nat-geo-wild-hd.png">nationalgeographicwild-hd.pt</tvg-id>
+        <tvg-id name="National Geographic Wild" icon="https://www.meo.pt/PublishingImages/MEO/canais/nat-geo-wild.png">nationalgeographicwild.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>NGC</provCode>
-        <tvg-id name="National Geographic">nationalgeographic.pt</tvg-id>
+        <tvg-id name="National Geographic" icon="https://www.meo.pt/PublishingImages/MEO/canais/national-geographic-channel.png">nationalgeographic.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>NBATVHD</provCode>
-        <tvg-id name="NBA HD">nba-hd.pt</tvg-id>
+        <tvg-id name="NBA HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/nba-tv.png">nba-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>nick</provCode>
-        <tvg-id name="Nicke">nickelodeon.pt</tvg-id>
+        <tvg-id name="Nicke" icon="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_pt.jpg">nickelodeon.pt</tvg-id>
         <provider>XML</provider>
     </channel>
     <channel>
         <provCode>ODISS</provCode>
-        <tvg-id name="Odisseia">odisseia.pt</tvg-id>
+        <tvg-id name="Odisseia" icon="https://www.meo.pt/PublishingImages/MEO/canais/odisseia.png">odisseia.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>BIGGS</provCode>
-        <tvg-id name="Panda Biggs">BIGGS</tvg-id>
+        <tvg-id name="Panda Biggs" icon="https://www.meo.pt/PublishingImages/MEO/canais/biggs.png">BIGGS</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>PANDA</provCode>
-        <tvg-id name="Panda HD">PANDA</tvg-id>
+        <tvg-id name="Panda HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/panda.png">PANDA</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>PFC</provCode>
-        <tvg-id name="PFC HD">PFC</tvg-id>
+        <tvg-id name="PFC HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/pfc.png">PFC</tvg-id>
        <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>PLAY</provCode>
-        <tvg-id name="Playboy">PLAY</tvg-id>
+        <tvg-id name="Playboy" icon="https://www.meo.pt/PublishingImages/MEO/canais/playboy-tv.png">PLAY</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>PORTO</provCode>
-        <tvg-id name="Porto Canal">PortoCanal.pt</tvg-id>
+        <tvg-id name="Porto Canal" icon="https://www.meo.pt/PublishingImages/MEO/canais/porto-canal.png">PortoCanal.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RMTV</provCode>
-        <tvg-id name="Real Madrid TV">RealMadridTV</tvg-id>
+        <tvg-id name="Real Madrid TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/real-madrid-tv.png">RealMadridTV</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTP1</provCode>
-        <tvg-id name="RTP 1">rtp1.pt</tvg-id>
-        <tvg-id name="RTP 1 (LQ)">rtp1-lq.pt</tvg-id>
-        <tvg-id name="RTP 1 HD">rtp1-hd.pt</tvg-id>
+        <tvg-id name="RTP 1" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png">rtp1.pt</tvg-id>
+        <tvg-id name="RTP 1 (LQ)" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png">rtp1-lq.pt</tvg-id>
+        <tvg-id name="RTP 1 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/rtp1-hd.png">rtp1-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTP2</provCode>
-        <tvg-id name="RTP 2">rtp2.pt</tvg-id>
-        <tvg-id name="RTP 2 (LQ)">rtp2-lq.pt</tvg-id>
-        <tvg-id name="RTP 2 HD">rtp2-hd.pt</tvg-id>
+        <tvg-id name="RTP 2" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?f=png">rtp2.pt</tvg-id>
+        <tvg-id name="RTP 2 (LQ)" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?f=png">rtp2-lq.pt</tvg-id>
+        <tvg-id name="RTP 2 HD" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?f=png">rtp2-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTP3</provCode>
-        <tvg-id name="RTP 3 HD">rtp3-hd.pt</tvg-id>
+        <tvg-id name="RTP 3 HD" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png?f=png">rtp3-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTPAC</provCode>
-        <tvg-id name="RTP Acores">RTPAcores.pt</tvg-id>
+        <tvg-id name="RTP Acores" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores.png?f=png">RTPAcores.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTPA</provCode>
-        <tvg-id name="RTP Africa">RTPAfrica.pt</tvg-id>
+        <tvg-id name="RTP Africa" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica.png?f=png">RTPAfrica.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTPMD</provCode>
-        <tvg-id name="RTP Madeira">RTPMadeira.pt</tvg-id>
+        <tvg-id name="RTP Madeira" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira.png?f=png">RTPMadeira.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTPM</provCode>
-        <tvg-id name="RTP Memoria">rtpmemoria.pt</tvg-id>
+        <tvg-id name="RTP Memoria" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria.png?f=png">rtpmemoria.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SIC</provCode>
-        <tvg-id name="SIC HD">sic-hd.pt</tvg-id>
-        <tvg-id name="SIC (LQ)">sic-lq.pt</tvg-id>
-        <tvg-id name="SIC FullHD">sic-fhd.pt</tvg-id>
+        <tvg-id name="SIC HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-hd.png">sic-hd.pt</tvg-id>
+        <tvg-id name="SIC (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic.png">sic-lq.pt</tvg-id>
+        <tvg-id name="SIC FullHD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-hd.png">sic-fhd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
        <provCode>SICC</provCode>
-        <tvg-id name="SIC Caras">SICC</tvg-id>
+        <tvg-id name="SIC Caras" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-caras.png">SICC</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SICK</provCode>
-        <tvg-id name="SIC Kids">sick</tvg-id>
+        <tvg-id name="SIC Kids" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-k.png">sick</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SICM</provCode>
-        <tvg-id name="SIC Mulher">sicmulher.pt</tvg-id>
+        <tvg-id name="SIC Mulher" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-mulher.png">sicmulher.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SICN</provCode>
-        <tvg-id name="SIC Noticias HD">sicnoticias-hd.pt</tvg-id>
+        <tvg-id name="SIC Noticias HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-noticias.png">sicnoticias-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SICR</provCode>
-        <tvg-id name="SIC Radical">sicradical.pt</tvg-id>
+        <tvg-id name="SIC Radical" icon="https://www.meo.pt/PublishingImages/MEO/canais/sic-radical.png">sicradical.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV</provCode>
-        <tvg-id name="Sport TV +">sporttv.pt</tvg-id>
+        <tvg-id name="Sport TV +" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv+.png">sporttv.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV1</provCode>
-        <tvg-id name="Sport TV 1">sporttv1.pt</tvg-id>
-        <tvg-id name="Sport TV 1 (LQ)">sporttv1-lq.pt</tvg-id>
-        <tvg-id name="Sport TV 1 HD">sporttv1-hd.pt</tvg-id>
-        <tvg-id name="Sport TV 1 Full HD">sporttv1-fhd.pt</tvg-id>
+        <tvg-id name="Sport TV 1" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv1.png">sporttv1.pt</tvg-id>
+        <tvg-id name="Sport TV 1 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv1.png">sporttv1-lq.pt</tvg-id>
+        <tvg-id name="Sport TV 1 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv1-hd.png">sporttv1-hd.pt</tvg-id>
+        <tvg-id name="Sport TV 1 Full HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv1-hd.png">sporttv1-fhd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV2</provCode>
-        <tvg-id name="Sport TV 2">sporttv2.pt</tvg-id>
-        <tvg-id name="Sport TV 2 (LQ)">sporttv2-lq.pt</tvg-id>
-        <tvg-id name="Sport TV 2 HD">sporttv2-hd.pt</tvg-id>
-        <tvg-id name="Sport TV 2 Full HD">sporttv2-fhd.pt</tvg-id>
+        <tvg-id name="Sport TV 2" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv2.png">sporttv2.pt</tvg-id>
+        <tvg-id name="Sport TV 2 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv2.png">sporttv2-lq.pt</tvg-id>
+        <tvg-id name="Sport TV 2 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv2-hd.png">sporttv2-hd.pt</tvg-id>
+        <tvg-id name="Sport TV 2 Full HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv2-hd.png">sporttv2-fhd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV3</provCode>
-        <tvg-id name="Sport TV 3">sporttv3.pt</tvg-id>
-        <tvg-id name="Sport TV 3 (LQ)">sporttv3-lq.pt</tvg-id>
-        <tvg-id name="Sport TV 3 HD">sporttv3-hd.pt</tvg-id>
-        <tvg-id name="Sport TV 3 Full HD">sporttv3-fhd.pt</tvg-id>
+        <tvg-id name="Sport TV 3" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv3.png">sporttv3.pt</tvg-id>
+        <tvg-id name="Sport TV 3 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv3.png">sporttv3-lq.pt</tvg-id>
+        <tvg-id name="Sport TV 3 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv3-hd.png">sporttv3-hd.pt</tvg-id>
+        <tvg-id name="Sport TV 3 Full HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv3-hd.png">sporttv3-fhd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV4</provCode>
-        <tvg-id name="Sport TV 4">sporttv4.pt</tvg-id>
-        <tvg-id name="Sport TV 4 (LQ)">sporttv4-lq.pt</tvg-id>
-        <tvg-id name="Sport TV 4 HD">sporttv4-hd.pt</tvg-id>
+        <tvg-id name="Sport TV 4" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv4.png">sporttv4.pt</tvg-id>
+        <tvg-id name="Sport TV 4 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv4.png">sporttv4-lq.pt</tvg-id>
+        <tvg-id name="Sport TV 4 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv4-hd.png">sporttv4-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV5</provCode>
-        <tvg-id name="Sport TV 5">sporttv5.pt</tvg-id>
-        <tvg-id name="Sport TV 5 (LQ)">sporttv5-lq.pt</tvg-id>
-        <tvg-id name="Sport TV 5 HD">sporttv5-hd.pt</tvg-id>
+        <tvg-id name="Sport TV 5" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv5.png">sporttv5.pt</tvg-id>
+        <tvg-id name="Sport TV 5 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv5.png">sporttv5-lq.pt</tvg-id>
+        <tvg-id name="Sport TV 5 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sport-tv5-hd.png">sporttv5-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SCPHD</provCode>
-        <tvg-id name="Sporting TV HD">SPORTINGTVHD.pt</tvg-id>
+        <tvg-id name="Sporting TV HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/sporting-tv-hd.png">SPORTINGTVHD.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SYFY</provCode>
-        <tvg-id name="SyFy">Syfy.pt</tvg-id>
+        <tvg-id name="SyFy" icon="https://www.meo.pt/PublishingImages/MEO/canais/syfy.png">Syfy.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TLC</provCode>
-        <tvg-id name="TLC">tlc</tvg-id>
+        <tvg-id name="TLC" icon="https://www.meo.pt/PublishingImages/MEO/canais/tlc.png">tlc</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TOROTV</provCode>
-        <tvg-id name="Toros TV">torotv.tv</tvg-id>
+        <tvg-id name="Toros TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/toros-tv.png">torotv.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TPA</provCode>
-        <tvg-id name="TPA Angola">TPA</tvg-id>
+        <tvg-id name="TPA Angola" icon="https://www.meo.pt/PublishingImages/MEO/canais/tpa-internacional.png">TPA</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TRACE</provCode>
-        <tvg-id name="Trace Urban TV">trace-urban.tv</tvg-id>
+        <tvg-id name="Trace Urban TV" icon="https://www.meo.pt/PublishingImages/MEO/canais/trace-urban.png">trace-urban.tv</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVSER</provCode>
-        <tvg-id name="TV Series">TVSER</tvg-id>
-        <tvg-id name="TV Series HD">TVSERHD</tvg-id>
+        <tvg-id name="TV Series" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvseries.png">TVSER</tvg-id>
+        <tvg-id name="TV Series HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvseries-hd.png">TVSERHD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC1</provCode>
-        <tvg-id name="TVC 1">TVC1</tvg-id>
-        <tvg-id name="TVC 1 (LQ)">TVC1-LQ</tvg-id>
-        <tvg-id name="TVC 1 HD">TVC1-HD</tvg-id>
+        <tvg-id name="TVC 1" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-1.png">TVC1</tvg-id>
+        <tvg-id name="TVC 1 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-1.png">TVC1-LQ</tvg-id>
+        <tvg-id name="TVC 1 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-1-hd.png">TVC1-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC2</provCode>
-        <tvg-id name="TVC 2">TVC2</tvg-id>
-        <tvg-id name="TVC 2 (LQ)">TVC2-LQ</tvg-id>
-        <tvg-id name="TVC 2 HD">TVC2-HD</tvg-id>
+        <tvg-id name="TVC 2" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-2.png">TVC2</tvg-id>
+        <tvg-id name="TVC 2 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-2.png">TVC2-LQ</tvg-id>
+        <tvg-id name="TVC 2 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-2-hd.png">TVC2-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC3</provCode>
-        <tvg-id name="TVC 3">TVC3</tvg-id>
-        <tvg-id name="TVC 3 (LQ)">TVC3-LQ</tvg-id>
-        <tvg-id name="TVC 3 HD">TVC3-HD</tvg-id>
+        <tvg-id name="TVC 3" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-3.png">TVC3</tvg-id>
+        <tvg-id name="TVC 3 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-3.png">TVC3-LQ</tvg-id>
+        <tvg-id name="TVC 3 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-3-hd.png">TVC3-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC4</provCode>
-        <tvg-id name="TVC 4">TVC4</tvg-id>
-        <tvg-id name="TVC 4 (LQ)">TVC4-LQ</tvg-id>
-        <tvg-id name="TVC 4 HD">TVC4-HD</tvg-id>
+        <tvg-id name="TVC 4" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-4.png">TVC4</tvg-id>
+        <tvg-id name="TVC 4 (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-4.png">TVC4-LQ</tvg-id>
+        <tvg-id name="TVC 4 HD" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvc-4-hd.png">TVC4-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVI</provCode>
-        <tvg-id name="TVI">tvi.pt</tvg-id>
-        <tvg-id name="TVI (LQ)">tvi-lq.pt</tvg-id>
-        <tvg-id name="TVI HD+">tvi-hd.pt</tvg-id>
+        <tvg-id name="TVI" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvi.png">tvi.pt</tvg-id>
+        <tvg-id name="TVI (LQ)" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvi.png">tvi-lq.pt</tvg-id>
+        <tvg-id name="TVI HD+" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvi.png">tvi-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVI24</provCode>
-        <tvg-id name="TVI 24">TVI24.pt</tvg-id>
+        <tvg-id name="TVI 24" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvi24.png">TVI24.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVIFIC</provCode>
-        <tvg-id name="TVI Ficção">TVIFiccao.pt</tvg-id>
+        <tvg-id name="TVI Ficção" icon="https://www.meo.pt/PublishingImages/MEO/canais/tvi-ficcao.png">TVIFiccao.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>VENUS</provCode>
-        <tvg-id name="Venus">VENUS</tvg-id>
+        <tvg-id name="Venus" icon="https://www.meo.pt/PublishingImages/MEO/canais/vh1.png">VENUS</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>VH1</provCode>
-        <tvg-id name="VH1">VH1</tvg-id>
+        <tvg-id name="VH1" icon="https://www.meo.pt/PublishingImages/MEO/canais/vh1.png">VH1</tvg-id>
         <provider>MEO</provider>
     </channel>
 </channelList>
