@@ -29,14 +29,12 @@
         <provCode>AXN</provCode>
         <tvg-id name="AXN" icon="https://1.bp.blogspot.com/-2pwXjSrkvms/WB8tbfsimwI/AAAAAAAAFT8/zXJVCNoKez8x6gHJmSzbtBB_LA1gjxCMQCLcB/s1600/AXN%2Blogo.png">axn.pt</tvg-id>
         <tvg-id name="AXN HD" icon="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN%2BHD%2Blogo.png">axn-hd.pt</tvg-id>
-        <tvg-id name="AXN (LQ)" icon="https://1.bp.blogspot.com/-2pwXjSrkvms/WB8tbfsimwI/AAAAAAAAFT8/zXJVCNoKez8x6gHJmSzbtBB_LA1gjxCMQCLcB/s1600/AXN%2Blogo.png">axn-lq.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>AXBHD</provCode>
         <tvg-id name="AXN Black" icon="https://1.bp.blogspot.com/-pAvZV-TL2OQ/WB8tbKtX8tI/AAAAAAAAFTs/UKTElvhdaYgEVtv42Osx21LSniOJdEmwgCLcB/s1600/AXN%2BBlack%2Blogo.png">AXNBlack.pt</tvg-id>
         <tvg-id name="AXN Black HD" icon="https://4.bp.blogspot.com/-BW2waQcAhW4/WDrqAiu9WkI/AAAAAAAAFaU/jyIoyQ7uzIEsLy86FkNpEMMP5Scjj10CgCLcB/s1600/AXN%2BBlack%2BHD%2Blogo.png">AXNBlack-hd.pt</tvg-id>
-        <tvg-id name="AXN Black (LQ)" icon="https://1.bp.blogspot.com/-pAvZV-TL2OQ/WB8tbKtX8tI/AAAAAAAAFTs/UKTElvhdaYgEVtv42Osx21LSniOJdEmwgCLcB/s1600/AXN%2BBlack%2Blogo.png">AXNBlack-lq.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -58,7 +56,7 @@
     <channel>
         <provCode>SLB</provCode>
         <tvg-id name="BTV" icon="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png">BenficaTV.pt</tvg-id>
-        <tvg-id name="BTV (LQ)" icon="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png">BenficaTV-lq.pt</tvg-id>
+        <tvg-id name="BTV LB" icon="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV%2Blogo.png">BenficaTV-lb.pt</tvg-id>
         <tvg-id name="BTV HD" icon="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png">BenficaTV-hd.pt</tvg-id>
         <tvg-id name="BTV Full HD" icon="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png">BenficaTV-fhd.pt</tvg-id>
         <provider>MEO</provider>
@@ -96,7 +94,7 @@
     <channel>
         <provCode>CMTV</provCode>
         <tvg-id name="CMTV" icon="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png">CMTV.pt</tvg-id>
-        <tvg-id name="CMTV (LQ)" icon="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png">CMTV-lq.pt</tvg-id>
+        <tvg-id name="CMTV HD" icon="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png">CMTV-hd.pt</tvg-id>
         <name>CMTV</name>
         <provider>MEO</provider>
     </channel>
@@ -173,7 +171,9 @@
     </channel>
     <channel>
         <provCode>FOXM</provCode>
-        <tvg-id name="FoxMovies" icon="https://4.bp.blogspot.com/-WAIUZXIASlY/TyVaxyx-ekI/AAAAAAAABII/PukQ3xUX3pY/s1600/FOX+Movies+logo.png">FOXM</tvg-id>
+        <tvg-id name="FoxMovies" icon="https://4.bp.blogspot.com/-WAIUZXIASlY/TyVaxyx-ekI/AAAAAAAABII/PukQ3xUX3pY/s1600/FOX+Movies+logo.png">foxmovies.pt</tvg-id>
+        <provider>MEO</provider>
+        <tvg-id name="FoxMovies Extra" icon="https://3.bp.blogspot.com/-CoyIb39UV6k/TyVaxErZ85I/AAAAAAAABH8/szGOHvjSdJk/s1600/FOX+Movies+HD+logo.png">foxmovies-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -194,7 +194,6 @@
     <channel>
         <provCode>HOLLW</provCode>
         <tvg-id name="Hollywood" icon="https://1.bp.blogspot.com/-XeUKVzGaHj0/TyVZn-bjBGI/AAAAAAAABB0/2YFaYcRteik/s1600/Canal+Hollywood+logo.png">hollywood.pt</tvg-id>
-        <tvg-id name="Hollywood (LQ)" icon="https://1.bp.blogspot.com/-XeUKVzGaHj0/TyVZn-bjBGI/AAAAAAAABB0/2YFaYcRteik/s1600/Canal+Hollywood+logo.png">hollywood-lq.pt</tvg-id>
         <tvg-id name="Hollywood HD" icon="https://1.bp.blogspot.com/-1Q6TpsA7AR4/TyVZm0sUo-I/AAAAAAAABBs/4w-351rjlIo/s1600/Canal+Hollywood+HD+logo+2.png">hollywood-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
@@ -302,14 +301,13 @@
     <channel>
         <provCode>RTP1</provCode>
         <tvg-id name="RTP 1" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png">rtp1.pt</tvg-id>
-        <tvg-id name="RTP 1 (LQ)" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png">rtp1-lq.pt</tvg-id>
+        <tvg-id name="RTP 1 LB" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png">rtp1-lb.pt</tvg-id>
         <tvg-id name="RTP 1 HD" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png?f=png">rtp1-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>RTP2</provCode>
         <tvg-id name="RTP 2" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?f=png">rtp2.pt</tvg-id>
-        <tvg-id name="RTP 2 (LQ)" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?f=png">rtp2-lq.pt</tvg-id>
         <tvg-id name="RTP 2 HD" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png?f=png">rtp2-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
@@ -341,8 +339,8 @@
     <channel>
         <provCode>SIC</provCode>
         <tvg-id name="SIC HD" icon="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png">sic-hd.pt</tvg-id>
-        <tvg-id name="SIC (LQ)" icon="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png">sic-lq.pt</tvg-id>
-        <tvg-id name="SIC FullHD" icon="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png">sic-fhd.pt</tvg-id>
+        <tvg-id name="SIC LB" icon="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png">sic-lb.pt</tvg-id>
+        <tvg-id name="SIC" icon="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png">sic.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -378,7 +376,7 @@
     <channel>
         <provCode>SPTV1</provCode>
         <tvg-id name="Sport TV 1" icon="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png">sporttv1.pt</tvg-id>
-        <tvg-id name="Sport TV 1 (LQ)" icon="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png">sporttv1-lq.pt</tvg-id>
+        <tvg-id name="Sport TV 1 LB" icon="https://3.bp.blogspot.com/-ks8Kh19lwGk/WDrqH2F-u8I/AAAAAAAAFfI/iBCeQ2JA5YENOGgs0bhJZgj-o4mFin85wCLcB/s1600/Sport%2BTV%2B1%2Blogo.png">sporttv1-lb.pt</tvg-id>
         <tvg-id name="Sport TV 1 HD" icon="https://2.bp.blogspot.com/-T5KqRqOifUU/WDrqHwwtQLI/AAAAAAAAFfA/vEcoLG0uT2sEgBs65X3uyBLmapRDNHTNgCLcB/s1600/Sport%2BTV%2B1%2BHD%2Blogo.png">sporttv1-hd.pt</tvg-id>
         <tvg-id name="Sport TV 1 Full HD" icon="https://2.bp.blogspot.com/-T5KqRqOifUU/WDrqHwwtQLI/AAAAAAAAFfA/vEcoLG0uT2sEgBs65X3uyBLmapRDNHTNgCLcB/s1600/Sport%2BTV%2B1%2BHD%2Blogo.png">sporttv1-fhd.pt</tvg-id>
         <provider>MEO</provider>
@@ -386,7 +384,6 @@
     <channel>
         <provCode>SPTV2</provCode>
         <tvg-id name="Sport TV 2" icon="https://3.bp.blogspot.com/-ampBZ6dy0rk/WDrqISiM6BI/AAAAAAAAFfY/nrvVN-5IMCIEuw-f9nUqVpA714J6HiBHwCLcB/s1600/Sport%2BTV%2B2%2Blogo.png">sporttv2.pt</tvg-id>
-        <tvg-id name="Sport TV 2 (LQ)" icon="https://3.bp.blogspot.com/-ampBZ6dy0rk/WDrqISiM6BI/AAAAAAAAFfY/nrvVN-5IMCIEuw-f9nUqVpA714J6HiBHwCLcB/s1600/Sport%2BTV%2B2%2Blogo.png">sporttv2-lq.pt</tvg-id>
         <tvg-id name="Sport TV 2 HD" icon="https://4.bp.blogspot.com/-y__uH8k1v08/WDrqIBWclZI/AAAAAAAAFfQ/xCtHrooT-1EinhQR6F31qgF7F0AqH6VwACLcB/s1600/Sport%2BTV%2B2%2BHD%2Blogo.png">sporttv2-hd.pt</tvg-id>
         <tvg-id name="Sport TV 2 Full HD" icon="https://4.bp.blogspot.com/-y__uH8k1v08/WDrqIBWclZI/AAAAAAAAFfQ/xCtHrooT-1EinhQR6F31qgF7F0AqH6VwACLcB/s1600/Sport%2BTV%2B2%2BHD%2Blogo.png">sporttv2-fhd.pt</tvg-id>
         <provider>MEO</provider>
@@ -394,7 +391,6 @@
     <channel>
         <provCode>SPTV3</provCode>
         <tvg-id name="Sport TV 3" icon="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png">sporttv3.pt</tvg-id>
-        <tvg-id name="Sport TV 3 (LQ)" icon="https://4.bp.blogspot.com/-rhq-pDSzCZA/WDrqIhr_xpI/AAAAAAAAFfo/itogXv9TiBU6GOXi-85ClGBvWJjnMHudwCLcB/s1600/Sport%2BTV%2B3%2Blogo.png">sporttv3-lq.pt</tvg-id>
         <tvg-id name="Sport TV 3 HD" icon="https://2.bp.blogspot.com/-qufakmpQu28/WDrqIZ_2a8I/AAAAAAAAFfg/DwLw9SZsbZA2Et5xCkLcjSXaRDd6IHvdQCLcB/s1600/Sport%2BTV%2B3%2BHD%2Blogo.png">sporttv3-hd.pt</tvg-id>
         <tvg-id name="Sport TV 3 Full HD" icon="https://2.bp.blogspot.com/-qufakmpQu28/WDrqIZ_2a8I/AAAAAAAAFfg/DwLw9SZsbZA2Et5xCkLcjSXaRDd6IHvdQCLcB/s1600/Sport%2BTV%2B3%2BHD%2Blogo.png">sporttv3-fhd.pt</tvg-id>
         <provider>MEO</provider>
@@ -402,14 +398,12 @@
     <channel>
         <provCode>SPTV4</provCode>
         <tvg-id name="Sport TV 4" icon="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png">sporttv4.pt</tvg-id>
-        <tvg-id name="Sport TV 4 (LQ)" icon="https://2.bp.blogspot.com/-LAwIlcqDZd4/WDrqJJRu8QI/AAAAAAAAFf4/TtrrQ6Bz9eUMOThjgCfSCFDpZY6-pEOpACLcB/s1600/Sport%2BTV%2B4%2Blogo.png">sporttv4-lq.pt</tvg-id>
         <tvg-id name="Sport TV 4 HD" icon="https://1.bp.blogspot.com/-jmw8oY0FZMI/WDrqIyOEiqI/AAAAAAAAFfw/mDesW_mtIkMxbG-xcp4R9zl3AbQZreXuQCLcB/s1600/Sport%2BTV%2B4%2BHD%2Blogo.png">sporttv4-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>SPTV5</provCode>
         <tvg-id name="Sport TV 5" icon="https://4.bp.blogspot.com/-bq7Ob-pxQOw/WDrqJQDcRjI/AAAAAAAAFgI/zQvCQQa5XKUDrqXhiwB80eOTA-wUqqtfgCLcB/s1600/Sport%2BTV%2B5%2Blogo.png">sporttv5.pt</tvg-id>
-        <tvg-id name="Sport TV 5 (LQ)" icon="https://4.bp.blogspot.com/-bq7Ob-pxQOw/WDrqJQDcRjI/AAAAAAAAFgI/zQvCQQa5XKUDrqXhiwB80eOTA-wUqqtfgCLcB/s1600/Sport%2BTV%2B5%2Blogo.png">sporttv5-lq.pt</tvg-id>
         <tvg-id name="Sport TV 5 HD" icon="https://4.bp.blogspot.com/-ddUuGooLVhw/WDrqJCrCufI/AAAAAAAAFgA/VzwpLJy8XoQ-o0atQeQ-ogWjlmZd_k5BgCLcB/s1600/Sport%2BTV%2B5%2BHD%2Blogo.png">sporttv5-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
@@ -452,36 +446,36 @@
     <channel>
         <provCode>TVC1</provCode>
         <tvg-id name="TVC 1" icon="https://4.bp.blogspot.com/-7QN7k_3RQkU/WDrqKbUvzYI/AAAAAAAAFg0/1Igj3xUznZIwc_wVVj3z6yKhVs74FzNhQCLcB/s1600/TVC%2B1%2Blogo.png">TVC1</tvg-id>
-        <tvg-id name="TVC 1 (LQ)" icon="https://4.bp.blogspot.com/-7QN7k_3RQkU/WDrqKbUvzYI/AAAAAAAAFg0/1Igj3xUznZIwc_wVVj3z6yKhVs74FzNhQCLcB/s1600/TVC%2B1%2Blogo.png">TVC1-LQ</tvg-id>
+        <tvg-id name="TVC 1 LB" icon="https://4.bp.blogspot.com/-7QN7k_3RQkU/WDrqKbUvzYI/AAAAAAAAFg0/1Igj3xUznZIwc_wVVj3z6yKhVs74FzNhQCLcB/s1600/TVC%2B1%2Blogo.png">TVC1-LB</tvg-id>
         <tvg-id name="TVC 1 HD" icon="https://1.bp.blogspot.com/-YyhQXr1XfYE/WDrqKCpYxTI/AAAAAAAAFgs/DW6VVXaoYcQkbcqzQ9ZJRWSWPeEZ3DpLwCLcB/s1600/TVC%2B1%2BHD%2Blogo.png">TVC1-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC2</provCode>
         <tvg-id name="TVC 2" icon="https://3.bp.blogspot.com/-Rn7ZpBqKRI0/WDrqKtxJowI/AAAAAAAAFhE/UeO0MozMH28_OyjfWans7ME8oLvfBekrwCLcB/s1600/TVC%2B2%2Blogo.png">TVC2</tvg-id>
-        <tvg-id name="TVC 2 (LQ)" icon="https://3.bp.blogspot.com/-Rn7ZpBqKRI0/WDrqKtxJowI/AAAAAAAAFhE/UeO0MozMH28_OyjfWans7ME8oLvfBekrwCLcB/s1600/TVC%2B2%2Blogo.png">TVC2-LQ</tvg-id>
+        <tvg-id name="TVC 2 LB" icon="https://3.bp.blogspot.com/-Rn7ZpBqKRI0/WDrqKtxJowI/AAAAAAAAFhE/UeO0MozMH28_OyjfWans7ME8oLvfBekrwCLcB/s1600/TVC%2B2%2Blogo.png">TVC2-LB</tvg-id>
         <tvg-id name="TVC 2 HD" icon="https://2.bp.blogspot.com/-78AsJByK-cY/WDrqKlb2VFI/AAAAAAAAFg8/dAVMpo3fBwIJeux_T6k7_BZ7GgMuzrgJwCLcB/s1600/TVC%2B2%2BHD%2Blogo.png">TVC2-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC3</provCode>
         <tvg-id name="TVC 3" icon="https://2.bp.blogspot.com/-hTzwnwunybM/WDrqLDEIbdI/AAAAAAAAFhU/w4UpVpSLfUgqiLB8DsXqkhkEMjeyALagACLcB/s1600/TVC%2B3%2Blogo.png">TVC3</tvg-id>
-        <tvg-id name="TVC 3 (LQ)" icon="https://2.bp.blogspot.com/-hTzwnwunybM/WDrqLDEIbdI/AAAAAAAAFhU/w4UpVpSLfUgqiLB8DsXqkhkEMjeyALagACLcB/s1600/TVC%2B3%2Blogo.png">TVC3-LQ</tvg-id>
+        <tvg-id name="TVC 3 LB" icon="https://2.bp.blogspot.com/-hTzwnwunybM/WDrqLDEIbdI/AAAAAAAAFhU/w4UpVpSLfUgqiLB8DsXqkhkEMjeyALagACLcB/s1600/TVC%2B3%2Blogo.png">TVC3-LB</tvg-id>
         <tvg-id name="TVC 3 HD" icon="https://1.bp.blogspot.com/-NyBBjdFtXc8/WDrqK2p4EAI/AAAAAAAAFhM/RMu5rZIUGIAtz1uiGClgi-qe5NQpmWyYgCLcB/s1600/TVC%2B3%2BHD%2Blogo.png">TVC3-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVC4</provCode>
         <tvg-id name="TVC 4" icon="https://2.bp.blogspot.com/-OtJ7Iq4QYd8/WDrqLTZfuSI/AAAAAAAAFhk/_QRDq-3T-HARHSgXSexiISljexVcE7AmACLcB/s1600/TVC%2B4%2Blogo.png">TVC4</tvg-id>
-        <tvg-id name="TVC 4 (LQ)" icon="https://2.bp.blogspot.com/-OtJ7Iq4QYd8/WDrqLTZfuSI/AAAAAAAAFhk/_QRDq-3T-HARHSgXSexiISljexVcE7AmACLcB/s1600/TVC%2B4%2Blogo.png">TVC4-LQ</tvg-id>
+        <tvg-id name="TVC 4 LB" icon="https://2.bp.blogspot.com/-OtJ7Iq4QYd8/WDrqLTZfuSI/AAAAAAAAFhk/_QRDq-3T-HARHSgXSexiISljexVcE7AmACLcB/s1600/TVC%2B4%2Blogo.png">TVC4-LB</tvg-id>
         <tvg-id name="TVC 4 HD" icon="https://1.bp.blogspot.com/-s3CfcA_g5co/WDrqLHqnBwI/AAAAAAAAFhc/GuHB8D-GaagNwtliB1DMghcFr_1dGZGAQCLcB/s1600/TVC%2B4%2BHD%2Blogo.png">TVC4-HD</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
         <provCode>TVI</provCode>
         <tvg-id name="TVI" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi.pt</tvg-id>
-        <tvg-id name="TVI (LQ)" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi-lq.pt</tvg-id>
-        <tvg-id name="TVI HD+" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi-hd.pt</tvg-id>
+        <tvg-id name="TVI LB" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi-lb.pt</tvg-id>
+        <tvg-id name="TVI HD" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
