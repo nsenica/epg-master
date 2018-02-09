@@ -147,7 +147,7 @@
     <channel>
         <provCode>FOOD</provCode>
         <tvg-id name="Food Network" icon="https://4.bp.blogspot.com/-_XZc3gEJGw0/WEcxgUrEONI/AAAAAAAAFl0/nxduV-x3KdUvBfvW6pFPOVf9kuRACPkSACLcB/s1600/Food%2BNetwork%2Blogo.png">foodnetwork.tv</tvg-id>
-        <provider>MEO</provider>
+        <provider>XML</provider>
     </channel>
     <channel>
         <provCode>FOX</provCode>
