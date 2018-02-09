@@ -77,6 +77,11 @@
         <provider>MEO</provider>
     </channel>
     <channel>
+        <provCode>CAPITALTV</provCode>
+        <tvg-id name="Capital TV" icon="https://assets.tvplayer.com/common/logos/256/Inverted/157.png">CAPITALTV</tvg-id>
+        <provider>NONE</provider>
+    </channel>
+    <channel>
         <provCode>CAÇAV</provCode>
         <tvg-id name="Caçavision" icon="https://1.bp.blogspot.com/-mOotsQMA0Oo/TyVZmNHNsUI/AAAAAAAABBk/MobKaskSmcU/s1600/Ca%C3%A7avision+logo.png">cacavision.pt</tvg-id>
         <provider>MEO</provider>
@@ -102,6 +107,11 @@
         <provCode>DISCV</provCode>
         <tvg-id name="Discovery Channel" icon="https://1.bp.blogspot.com/-RRO-qCE_aRE/T_WDvIO6B4I/AAAAAAAACQs/CRNM7KK9fbI/s1600/Discovery+Channel+logo.png">discoverychannel.pt</tvg-id>
         <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>DISCSC</provCode>
+        <tvg-id name="Discovery Showcase" icon="https://1.bp.blogspot.com/-BAlSz4z-M8Q/WDrqCpCo7_I/AAAAAAAAFbw/GTkMUI9-44Q16aRTTzuc_5N6ZL-FA3ragCLcB/s1600/Discovery%2BShowcase%2BHD%2Blogo.png">discoveryshowcase.pt</tvg-id>
+        <provider>NONE</provider>
     </channel>
     <channel>
         <provCode>DISNY</provCode>
@@ -243,6 +253,11 @@
         <provider>MEO</provider>
     </channel>
     <channel>
+        <provCode>MTVDANCE</provCode>
+        <tvg-id name="MTV Dance" icon="https://2.bp.blogspot.com/-J1R0KlL_-qg/UxSncJlSWRI/AAAAAAAAEd0/7og9UkDSO8o/s1600/MTV+Dance+logo.png">mtvdance.pt</tvg-id>
+        <provider>NONE</provider>
+    </channel>
+    <channel>
         <provCode>NGWIL</provCode>
         <tvg-id name="National Geo Wild HD" icon="https://3.bp.blogspot.com/-IJMrvoIUXnk/TyVbXuDj6xI/AAAAAAAABM4/w5f8uR6JnEs/s1600/Nat+Geo+Wild+HD+logo.png">nationalgeographicwild-hd.pt</tvg-id>
         <tvg-id name="National Geographic Wild" icon="https://1.bp.blogspot.com/-mobmPEpaZYI/TyVbYeTqUoI/AAAAAAAABNI/Zxf-1EHnKO8/s1600/Nat+Geo+Wild+logo.png">nationalgeographicwild.pt</tvg-id>
@@ -267,6 +282,11 @@
         <provCode>ODISS</provCode>
         <tvg-id name="Odisseia" icon="https://4.bp.blogspot.com/-jMW1KKW0ccw/WB3MKkUOk_I/AAAAAAAAFRc/M-8ngoM7xHwqPy8_Q0uaOotPmlj3r068gCLcB/s1600/Odisseia%2Blogo.png">odisseia.pt</tvg-id>
         <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>ONE1</provCode>
+        <tvg-id name="One 1 HD" icon="http://www.one.by/images/logo.png">one1-hd.pt</tvg-id>
+        <provider>NONE</provider>
     </channel>
     <channel>
         <provCode>BIGGS</provCode>
@@ -497,5 +517,45 @@
         <provCode>VH1</provCode>
         <tvg-id name="VH1" icon="https://4.bp.blogspot.com/-L-lSXepo0Ic/VSZNwhsMz1I/AAAAAAAAEws/G0rbwb68vnQ/s1600/VH1%2Blogo.png">VH1</tvg-id>
         <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>VH1C</provCode>
+        <tvg-id name="VH1 Classic" icon="https://1.bp.blogspot.com/-ts8M6zd6kBg/TyVjRvbexDI/AAAAAAAABac/Kw_gqxXJgIA/s1600/VH1+Classic+logo.png">VH1Classic</tvg-id>
+        <provider>NONE</provider>
+    </channel>
+    <channel>
+        <provCode>RFM</provCode>
+        <tvg-id name="RFM" icon="https://upload.wikimedia.org/wikipedia/en/7/71/RFM_logo.png">RFM</tvg-id>
+        <provider>RADIO</provider>
+    </channel>
+    <channel>
+        <provCode>MEGAHITS</provCode>
+        <tvg-id name="Mega Hits FM" icon="https://pbs.twimg.com/profile_images/957988939586994178/11xYB6C2_400x400.jpg">MEGAHITSFM</tvg-id>
+        <provider>RADIO</provider>
+    </channel>
+    <channel>
+        <provCode>ORBITAL</provCode>
+        <tvg-id name="Orbital FM" icon="http://static.radio.fr/images/broadcasts/31/0b/9933/1/c175.png">ORBITAL</tvg-id>
+        <provider>RADIO</provider>
+    </channel>
+    <channel>
+        <provCode>OXIGENIO</provCode>
+        <tvg-id name="Oxigenio FM" icon="https://maisbaixo.com/site/wp-content/uploads/2013/10/RadioOxigenio6.jpg">OXIGENIO</tvg-id>
+        <provider>RADIO</provider>
+    </channel>
+    <channel>
+        <provCode>FIRSTCLASS</provCode>
+        <tvg-id name="First Class Radio" icon="https://i2.wp.com/simdea.pt/wp-content/uploads/2014/02/logo.png">FirstClass</tvg-id>
+        <provider>RADIO</provider>
+    </channel>
+    <channel>
+        <provCode>TOTALFM</provCode>
+        <tvg-id name="Total FM (Algarve)" icon="http://www.totalfm.pt/img/logo.png">TOTALFM</tvg-id>
+        <provider>RADIO</provider>
+    </channel>
+    <channel>
+        <provCode>AMALIA</provCode>
+        <tvg-id name="Amalia FM" icon="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png">AMALIAFM</tvg-id>
+        <provider>RADIO</provider>
     </channel>
 </channelList>
