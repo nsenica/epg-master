@@ -7,6 +7,8 @@
 ## by warlockPT
 ## v1.0 - 2015/04/10
 ##########################################
+## Some logos taken from: https://grelha-tv.blogspot.nl/p/logos.html
+##########################################
 
 #imports
 import urllib
@@ -123,8 +125,6 @@ for channel in channels:
             if log>0:
                 print "  Provider is empty"
             continue
-
-        print name
 
         if log>0:
             print "  ProvCode: <{0}>  TVG: <{1}>  Name: <{2}> Provider: <{3}>".format(provCode.firstChild.data.encode('utf-8'),tvgID.firstChild.data,name,provider.firstChild.data)
