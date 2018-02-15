@@ -12,7 +12,7 @@
     </channel>
     <channel>
         <provCode>AE</provCode>
-        <tvg-id name="AandE" icon="https://3.bp.blogspot.com/-CQS_IjVwh9k/VSZNf8vYukI/AAAAAAAAEss/jhXzL_j11aQ/s1600/A%26E%2Blogo.png">AE</tvg-id>
+        <tvg-id name="A&amp;E" icon="https://3.bp.blogspot.com/-CQS_IjVwh9k/VSZNf8vYukI/AAAAAAAAEss/jhXzL_j11aQ/s1600/A%26E%2Blogo.png">AE</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -104,6 +104,11 @@
         <provider>MEO</provider>
     </channel>
     <channel>
+        <provCode>CNBC</provCode>
+        <tvg-id name="CNBC [USA + Europe]" icon="https://3.bp.blogspot.com/-Z0t8lHVEc-Q/TyVZ0XjkbAI/AAAAAAAABDI/l0DslZUlioI/s1600/CNBC+logo.png">CNBC</tvg-id>
+        <provider>MEO</provider>
+    </channel>
+    <channel>
         <provCode>DISCV</provCode>
         <tvg-id name="Discovery Channel" icon="https://1.bp.blogspot.com/-RRO-qCE_aRE/T_WDvIO6B4I/AAAAAAAACQs/CRNM7KK9fbI/s1600/Discovery+Channel+logo.png">discoverychannel.pt</tvg-id>
         <provider>MEO</provider>
@@ -161,7 +166,8 @@
     </channel>
     <channel>
         <provCode>FOX</provCode>
-        <tvg-id name="Fox HD" icon="https://4.bp.blogspot.com/-dJMVaQ_h3lU/TyVawmzHaEI/AAAAAAAABH0/jUcqBGXp5MU/s1600/FOX+logo.png">fox.pt</tvg-id>
+        <tvg-id name="Fox" icon="https://4.bp.blogspot.com/-dJMVaQ_h3lU/TyVawmzHaEI/AAAAAAAABH0/jUcqBGXp5MU/s1600/FOX+logo.png">fox.pt</tvg-id>
+        <tvg-id name="Fox HD" icon="https://4.bp.blogspot.com/-dJMVaQ_h3lU/TyVawmzHaEI/AAAAAAAABH0/jUcqBGXp5MU/s1600/FOX+logo.png">fox-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -209,7 +215,7 @@
     </channel>
     <channel>
         <provCode>HOT</provCode>
-        <tvg-id name="Hot" icon="https://2.bp.blogspot.com/-1wGO-f5ElZg/T_WD1FkE3aI/AAAAAAAACRY/tdQWIh7NYH4/s1600/HOT+logo.png">HOT</tvg-id>
+        <tvg-id name="XXX HOT XXX" icon="https://2.bp.blogspot.com/-1wGO-f5ElZg/T_WD1FkE3aI/AAAAAAAACRY/tdQWIh7NYH4/s1600/HOT+logo.png">HOT</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -219,7 +225,7 @@
     </channel>
     <channel>
         <provCode>KOMBAT</provCode>
-        <tvg-id name="Kombat Sports" icon="https://1.bp.blogspot.com/-eHwzEtjo10Q/UMH5tbV0VjI/AAAAAAAADWE/8SmQWTdqkxk/s1600/Kombat+Sport+logo.png">kombatsports.pt</tvg-id>
+        <tvg-id name="Kombat SportS" icon="https://1.bp.blogspot.com/-eHwzEtjo10Q/UMH5tbV0VjI/AAAAAAAADWE/8SmQWTdqkxk/s1600/Kombat+Sport+logo.png">kombatsports.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -266,6 +272,7 @@
     <channel>
         <provCode>NGC</provCode>
         <tvg-id name="National Geographic" icon="https://4.bp.blogspot.com/-SIlhwO8y0pM/TyVbaBWc5ZI/AAAAAAAABNY/aXTPI-A68RM/s1600/National+Geographic+logo.png">nationalgeographic.pt</tvg-id>
+        <tvg-id name="National Geographic HD" icon="https://4.bp.blogspot.com/-SIlhwO8y0pM/TyVbaBWc5ZI/AAAAAAAABNY/aXTPI-A68RM/s1600/National+Geographic+logo.png">nationalgeographic-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -305,7 +312,7 @@
     </channel>
     <channel>
         <provCode>PLAY</provCode>
-        <tvg-id name="Playboy" icon="https://3.bp.blogspot.com/-rzCTsP2tp6A/VSZNoSLRxNI/AAAAAAAAEuo/Z799ABH7rQs/s1600/Playboy%2BTV%2Blogo.png">PLAY</tvg-id>
+        <tvg-id name="XXX Playboy XXX" icon="https://3.bp.blogspot.com/-rzCTsP2tp6A/VSZNoSLRxNI/AAAAAAAAEuo/Z799ABH7rQs/s1600/Playboy%2BTV%2Blogo.png">PLAY</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -333,6 +340,7 @@
     </channel>
     <channel>
         <provCode>RTP3</provCode>
+        <tvg-id name="RTP 3" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png?f=png">rtp3.pt</tvg-id>
         <tvg-id name="RTP 3 HD" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png?f=png">rtp3-hd.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
@@ -354,6 +362,11 @@
     <channel>
         <provCode>RTPM</provCode>
         <tvg-id name="RTP Memoria" icon="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria.png?f=png">rtpmemoria.pt</tvg-id>
+        <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>SEXTRM</provCode>
+        <tvg-id name="XXX Sextreme XXX" icon="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png">sextreme.pt</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -492,6 +505,27 @@
         <provider>MEO</provider>
     </channel>
     <channel>
+        <provCode>TVEI</provCode>
+        <tvg-id name="TVE 1" icon="http://teledelmundo.com/wp-content/uploads/2016/04/La-1-live.png">tve1.pt</tvg-id>
+        <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>TVGLOBO</provCode>
+        <tvg-id name="TV Globo" icon="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png">tvglobo.pt</tvg-id>
+        <tvg-id name="TV Globo HD" icon="https://2.bp.blogspot.com/-Ob4gwDX3Juc/WDrqEe2KLFI/AAAAAAAAFc4/Duq4fHu2Ses8kssgqC6XIEXGihNU12SogCLcB/s1600/Globo%2Blogo.png">tvglobo-hd.pt</tvg-id>
+        <provider>NONE</provider>
+    </channel>
+    <channel>
+        <provCode>GLOBO</provCode>
+        <tvg-id name="TV Globo Premium" icon="https://4.bp.blogspot.com/-WKjZJjOAces/WDrqEKgpgsI/AAAAAAAAFco/rRnbfcJ-x6MChkM_lXxk93_Mg01_KjdugCLcB/s1600/Globo%2BPremium%2Blogo%2B2.png">tvglobopremium.pt</tvg-id>
+        <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>TVREC</provCode>
+        <tvg-id name="TV Record HD" icon="https://3.bp.blogspot.com/-sg0HFDoB7pI/WDrqHIVJjfI/AAAAAAAAFeg/QPP_HFewHHQiA3VdLskTl0VE3LlpgsS3QCLcB/s1600/Record%2BTV%2Blogo.png">tvrecord-hd.pt</tvg-id>
+        <provider>MEO</provider>
+    </channel>
+    <channel>
         <provCode>TVI</provCode>
         <tvg-id name="TVI" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi.pt</tvg-id>
         <tvg-id name="TVI LB" icon="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png">tvi-lb.pt</tvg-id>
@@ -509,8 +543,13 @@
         <provider>MEO</provider>
     </channel>
     <channel>
+        <provCode>TVIREAL</provCode>
+        <tvg-id name="TVI Reality" icon="https://4.bp.blogspot.com/-BZoXUGoNRWM/WB3MMLtAGVI/AAAAAAAAFSk/eaubY96K3fshT0MvMXeXmCT6XyStshRigCLcB/s1600/TVI%2BReality%2Blogo.png">TVIReality.pt</tvg-id>
+        <provider>XML</provider>
+    </channel>
+    <channel>
         <provCode>VENUS</provCode>
-        <tvg-id name="Venus" icon="https://3.bp.blogspot.com/-N6wfOJ4hX2U/VSZNxsD7TYI/AAAAAAAAEw8/KSnmmyEV0Pg/s1600/Venus%2Blogo.png">VENUS</tvg-id>
+        <tvg-id name="XXX Venus XXX" icon="https://3.bp.blogspot.com/-N6wfOJ4hX2U/VSZNxsD7TYI/AAAAAAAAEw8/KSnmmyEV0Pg/s1600/Venus%2Blogo.png">VENUS</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
