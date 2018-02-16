@@ -81,8 +81,8 @@ DOMTree = xml.dom.minidom.parse(channelFilename)
 collection = DOMTree.documentElement
 channels = collection.getElementsByTagName("channel")
 
-dstOffset = " +0200"
-if time.localtime( ).tm_isdst: dstOffset = " +0100"
+dstOffset = " +0100"
+if time.localtime( ).tm_isdst: dstOffset = " +0200"
 
 if log>0: print "Reading channels..."
 for channel in channels:
