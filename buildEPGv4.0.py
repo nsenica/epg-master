@@ -81,8 +81,8 @@ DOMTree = xml.dom.minidom.parse(channelFilename)
 collection = DOMTree.documentElement
 channels = collection.getElementsByTagName("channel")
 
-dstOffset = " +0100"
-if time.localtime( ).tm_isdst: dstOffset = " +0200"
+dstOffset = " +0000"
+if time.localtime( ).tm_isdst: dstOffset = " +0100"
 
 if log>0: print "Reading channels..."
 for channel in channels:
@@ -161,8 +161,8 @@ for channel in channels:
             desc = program.getElementsByTagName('Description')[0]
             startTime = program.getElementsByTagName('StartTime')[0]
             endTime = program.getElementsByTagName('EndTime')[0]
-            sTime=str(startTime.firstChild.data).translate(None,'-: ')+dstOffset
-            eTime=str(endTime.firstChild.data).translate(None,'-: ')+dstOffset
+            sTime=str(startTime.firstChild.data).translate(None,'-: ') #+dstOffset
+            eTime=str(endTime.firstChild.data).translate(None,'-: ') #+dstOffset
             n=n+1
             if log>1:
                 print "      Title: ",title.firstChild.data.encode('UTF-8'),"\n    Desc: ",desc.firstChild.data.encode('UTF-8'),"\n    Start: ",startTime.firstChild.data," ",sTime,"\n    End: ",endTime.firstChild.data," ",eTime
@@ -179,8 +179,8 @@ for channel in channels:
         programs = root.findall("./programme[@channel='"+provCode.firstChild.data+"']")
         for tvgID in tvgIDs:
             for program in programs:
-                program.set('start', program.get('start') + dstOffset) #.replace('+0100',dstOffset))
-                program.set('stop', program.get('stop') + dstOffset) #.replace('+0100',dstOffset))
+                program.set('start', program.get('start')) # + dstOffset) #.replace('+0100',dstOffset))
+                program.set('stop', program.get('stop')) # + dstOffset) #.replace('+0100',dstOffset))
                 if log>1:
                     print "      Title: ",program.find('title').text.encode('UTF-8'),"\n    Desc: ",program.find('desc').text.encode('UTF-8'),"\n    Start: ",program.get('start'),"\n    End: ",program.get('end')
                     print "      --------------"
