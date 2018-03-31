@@ -64,7 +64,7 @@ sDate=str(today.year)+"-"+str(today.month).zfill(2)+"-"+str(today.day).zfill(2)
 tomorrow=today+datetime.timedelta(days=8)
 eDate=str(tomorrow.year)+"-"+str(tomorrow.month).zfill(2)+"-"+str(tomorrow.day).zfill(2)
 
-if log>0: print "Today: {0}  Tomorrow: {1}".format(sDate, eDate)
+if log>0: print "Start date: {0}  End date: {1}".format(sDate, eDate)
 
 url="http://services.sapo.pt/EPG/GetChannelByDateInterval?channelSigla={0}&startDate={1}+00%3A00%3A00&endDate={2}+00%3A00%3A00"
 
@@ -161,8 +161,8 @@ for channel in channels:
             desc = program.getElementsByTagName('Description')[0]
             startTime = program.getElementsByTagName('StartTime')[0]
             endTime = program.getElementsByTagName('EndTime')[0]
-            sTime=str(startTime.firstChild.data).translate(None,'-: ') #+dstOffset
-            eTime=str(endTime.firstChild.data).translate(None,'-: ') #+dstOffset
+            sTime=str(startTime.firstChild.data).translate(None,'-: ') + dstOffset
+            eTime=str(endTime.firstChild.data).translate(None,'-: ') + dstOffset
             n=n+1
             if log>1:
                 print "      Title: ",title.firstChild.data.encode('UTF-8'),"\n    Desc: ",desc.firstChild.data.encode('UTF-8'),"\n    Start: ",startTime.firstChild.data," ",sTime,"\n    End: ",endTime.firstChild.data," ",eTime
@@ -179,10 +179,10 @@ for channel in channels:
         programs = root.findall("./programme[@channel='"+provCode.firstChild.data+"']")
         for tvgID in tvgIDs:
             for program in programs:
-                program.set('start', program.get('start')) # + dstOffset) #.replace('+0100',dstOffset))
-                program.set('stop', program.get('stop')) # + dstOffset) #.replace('+0100',dstOffset))
+                program.set('start', program.get('start') + dstOffset) #.replace('+0100',dstOffset))
+                program.set('stop', program.get('stop') + dstOffset) #.replace('+0100',dstOffset))
                 if log>1:
-                    print "      Title: ",program.find('title').text.encode('UTF-8'),"\n    Desc: ",program.find('desc').text.encode('UTF-8'),"\n    Start: ",program.get('start'),"\n    End: ",program.get('end')
+                    print "      Title: ",program.find('title').text.encode('UTF-8'),"\n    Desc: ",program.find('desc').text.encode('UTF-8'),"\n    Start: ",program.get('start'),"\n    End: ",program.get('stop')
                     print "      --------------"
                 program.set('channel', tvgID.firstChild.data)
                 epgFile.write("\t" + ET.tostring(program,"utf-8"))
