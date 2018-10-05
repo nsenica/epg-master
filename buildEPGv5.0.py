@@ -209,7 +209,7 @@ for channel in channels:
                 epgFile.write('\t<programme channel="{0}" start="{1}" stop="{2}">\n'.format(provCode.firstChild.data, program["su"], program["sl"]))
                 epgFile.write('\t\t<title lang="pt">{0}</title>\n'.format(program["e"].encode( "utf-8" )))
                 epgFile.write('\t\t<desc lang="pt">{0} - {1}</desc>\n'.format(program["t"].encode( "utf-8" ),program["e"].encode( "utf-8" )))
-                epgFile.write('\t\t<icon src="{0}</icon>"\n'.format(program["ed"]))
+                epgFile.write('\t\t<icon src="{0}" />\n'.format(program["ed"]))
                 epgFile.write('\t</programme>\n')
                 n=n+1
 
