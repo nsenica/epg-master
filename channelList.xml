@@ -11,8 +11,8 @@
         <provider>MEO</provider>
     </channel>
     <channel>
-        <provCode>AE</provCode>
-        <tvg-id name="A&amp;E" icon="https://3.bp.blogspot.com/-CQS_IjVwh9k/VSZNf8vYukI/AAAAAAAAEss/jhXzL_j11aQ/s1600/A%26E%2Blogo.png">AE</tvg-id>
+        <provCode>BLAZEHD</provCode>
+        <tvg-id name="A&amp;E" icon="https://banner2.kisspng.com/20180403/vge/kisspng-united-kingdom-blaze-a-e-networks-television-chann-blazer-5ac44bc36df017.4819711915228138914503.jpg">Blaze</tvg-id>
         <provider>MEO</provider>
     </channel>
     <channel>
@@ -132,6 +132,36 @@
         <provCode>E!</provCode>
         <tvg-id name="E! Entertainment" icon="https://1.bp.blogspot.com/-AEgk50Ny5VA/UDahWdfdNRI/AAAAAAAACp8/sW-j23x898Y/s1600/E!+Entertainment+Television+logo+2.png">e-entertainment.pt</tvg-id>
         <provider>MEO</provider>
+    </channel>
+    <channel>
+        <provCode>elevensports1</provCode>
+        <tvg-id name="ElevenSports 1 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/09/Eleven_Sports_1_%282017-.n.v.%29.png/revision/latest?cb=20180403072334">ElevenSports 1 HD</tvg-id>
+        <provider>ES</provider>
+    </channel>
+    <channel>
+        <provCode>elevensports2</provCode>
+        <tvg-id name="ElevenSports 2 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/4/4f/Eleven_Sports_2_%282017-.n.v.%29.png/revision/latest?cb=20180403073241">ElevenSports 2 HD</tvg-id>
+        <provider>ES</provider>
+    </channel>
+    <channel>
+        <provCode>eleven-plus1</provCode>
+        <tvg-id name="ElevenSports 3 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/bd/Eleven_Sports_3_%282017-.n.v.%29.png/revision/latest?cb=20180403074418">ElevenSports 3 HD</tvg-id>
+        <provider>ES</provider>
+    </channel>
+    <channel>
+        <provCode>eleven-plus2</provCode>
+        <tvg-id name="ElevenSports 4 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/3a/Eleven_Sports_4_%282017-.n.v.%29.png/revision/latest?cb=20180403075043">ElevenSports 4 HD</tvg-id>
+        <provider>ES</provider>
+    </channel>
+    <channel>
+        <provCode>eleven-plus3</provCode>
+        <tvg-id name="ElevenSports 5 HD" icon="http://fftitan.com/wp-content/uploads/2016/11/Eleven-Sports-Network-logo.png">ElevenSports 5 HD</tvg-id>
+        <provider>ES</provider>
+    </channel>
+    <channel>
+        <provCode>eleven-plus4</provCode>
+        <tvg-id name="ElevenSports 6 HD" icon="http://fftitan.com/wp-content/uploads/2016/11/Eleven-Sports-Network-logo.png">ElevenSports 6 HD</tvg-id>
+        <provider>ES</provider>
     </channel>
     <channel>
         <provCode>EURSP</provCode>
@@ -597,4 +627,5 @@
         <tvg-id name="Amalia FM" icon="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png">AMALIAFM</tvg-id>
         <provider>RADIO</provider>
     </channel>
+
 </channelList>
