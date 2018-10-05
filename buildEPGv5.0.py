@@ -206,12 +206,13 @@ for channel in channels:
             myfile = myfile.rsplit(')', 1)[0]
             tvgID = json.loads(myfile);
             for program in tvgID[0]["items"]:
-                epgFile.write('\t<programme channel="{0}" start="{1}" stop="{2}">\n'.format(tvgID.firstChild.data, program["su"], program["sl"]))
-                epgFile.write('\t\t<title lang="pt">{0}</title>\n'.format(program["e"].encode( "utf-8" )))
-                epgFile.write('\t\t<desc lang="pt">{0} - {1}</desc>\n'.format(program["t"].encode( "utf-8" ),program["e"].encode( "utf-8" )))
-                epgFile.write('\t\t<icon src="{0}" />\n'.format(program["ed"]))
-                epgFile.write('\t</programme>\n')
-                n=n+1
+                for tvgID in tvgIDs:
+                    epgFile.write('\t<programme channel="{0}" start="{1}" stop="{2}">\n'.format(tvgID.firstChild.data, program["su"], program["sl"]))
+                    epgFile.write('\t\t<title lang="pt">{0}</title>\n'.format(program["e"].encode( "utf-8" )))
+                    epgFile.write('\t\t<desc lang="pt">{0} - {1}</desc>\n'.format(program["t"].encode( "utf-8" ),program["e"].encode( "utf-8" )))
+                    epgFile.write('\t\t<icon src="{0}" />\n'.format(program["ed"]))
+                    epgFile.write('\t</programme>\n')
+                    n=n+1
 
     if log>0: print "    {0} programs read!".format(n)
 
