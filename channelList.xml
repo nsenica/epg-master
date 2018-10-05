@@ -135,32 +135,32 @@
     </channel>
     <channel>
         <provCode>elevensports1</provCode>
-        <tvg-id name="ElevenSports 1 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/09/Eleven_Sports_1_%282017-.n.v.%29.png/revision/latest?cb=20180403072334">ElevenSports 1 HD</tvg-id>
+        <tvg-id name="ElevenSports 1 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/0/09/Eleven_Sports_1_%282017-.n.v.%29.png/revision/latest">elevensports1.pt</tvg-id>
         <provider>ES</provider>
     </channel>
     <channel>
         <provCode>elevensports2</provCode>
-        <tvg-id name="ElevenSports 2 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/4/4f/Eleven_Sports_2_%282017-.n.v.%29.png/revision/latest?cb=20180403073241">ElevenSports 2 HD</tvg-id>
+        <tvg-id name="ElevenSports 2 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/4/4f/Eleven_Sports_2_%282017-.n.v.%29.png/revision/latest">elevensports2.pt</tvg-id>
         <provider>ES</provider>
     </channel>
     <channel>
         <provCode>eleven-plus1</provCode>
-        <tvg-id name="ElevenSports 3 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/bd/Eleven_Sports_3_%282017-.n.v.%29.png/revision/latest?cb=20180403074418">ElevenSports 3 HD</tvg-id>
+        <tvg-id name="ElevenSports 3 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/bd/Eleven_Sports_3_%282017-.n.v.%29.png/revision/latest">elevensports3.pt</tvg-id>
         <provider>ES</provider>
     </channel>
     <channel>
         <provCode>eleven-plus2</provCode>
-        <tvg-id name="ElevenSports 4 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/3a/Eleven_Sports_4_%282017-.n.v.%29.png/revision/latest?cb=20180403075043">ElevenSports 4 HD</tvg-id>
+        <tvg-id name="ElevenSports 4 HD" icon="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/3a/Eleven_Sports_4_%282017-.n.v.%29.png/revision/latest">elevensports4.pt</tvg-id>
         <provider>ES</provider>
     </channel>
     <channel>
         <provCode>eleven-plus3</provCode>
-        <tvg-id name="ElevenSports 5 HD" icon="http://fftitan.com/wp-content/uploads/2016/11/Eleven-Sports-Network-logo.png">ElevenSports 5 HD</tvg-id>
+        <tvg-id name="ElevenSports 5 HD" icon="http://fftitan.com/wp-content/uploads/2016/11/Eleven-Sports-Network-logo.png">elevensports5.pt</tvg-id>
         <provider>ES</provider>
     </channel>
     <channel>
         <provCode>eleven-plus4</provCode>
-        <tvg-id name="ElevenSports 6 HD" icon="http://fftitan.com/wp-content/uploads/2016/11/Eleven-Sports-Network-logo.png">ElevenSports 6 HD</tvg-id>
+        <tvg-id name="ElevenSports 6 HD" icon="http://fftitan.com/wp-content/uploads/2016/11/Eleven-Sports-Network-logo.png">elevensports6.pt</tvg-id>
         <provider>ES</provider>
     </channel>
     <channel>
