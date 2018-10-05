@@ -196,6 +196,7 @@ for channel in channels:
         while d < tomorrow:
             link = es_url.format(provCode.firstChild.data.encode('utf-8'),d.strftime("%Y"),d.strftime("%m"),d.strftime("%d"))
             if log>1: print "    Link: {0}".format(link)
+            d += delta
 
             #read web-service
             f = urllib.urlopen(link)
@@ -217,7 +218,6 @@ for channel in channels:
                     epgFile.write('\t</programme>\n')
                     n=n+1
 
-            d += delta
 
     if log>0: print "    {0} programs read!".format(n)
 
