@@ -207,7 +207,11 @@ for channel in channels:
             tvgID = json.loads(myfile);
             for program in tvgID[0]["items"]:
                 for tvgID in tvgIDs:
-                    epgFile.write('\t<programme channel="{0}" start="{1}" stop="{2}">\n'.format(tvgID.firstChild.data, program["su"], program["sl"]))
+                    sTime = datetime.datetime.strptime(program["su"], "%Y-%m-%dT%H:%M:%S.000")
+                    sTime = sTime.strftime("%Y%m%d%H%M%S") + dstOffset
+                    eTime = datetime.datetime.strptime(program["sl"], "%Y-%m-%dT%H:%M:%S.000")
+                    eTime = eTime.strftime("%Y%m%d%H%M%S") + dstOffset
+                    epgFile.write('\t<programme channel="{0}" start="{1}" stop="{2}">\n'.format(tvgID.firstChild.data, sTime, eTime))
                     epgFile.write('\t\t<title lang="pt">{0}</title>\n'.format(program["e"].encode( "utf-8" )))
                     epgFile.write('\t\t<desc lang="pt">{0} - {1}</desc>\n'.format(program["t"].encode( "utf-8" ),program["e"].encode( "utf-8" )))
                     epgFile.write('\t\t<icon src="{0}" />\n'.format(program["ed"]))
