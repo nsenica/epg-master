@@ -214,7 +214,8 @@ for channel in channels:
                     epgFile.write('\t<programme channel="{0}" start="{1}" stop="{2}">\n'.format(tvgID.firstChild.data, sTime, eTime))
                     epgFile.write('\t\t<title lang="pt">{0}</title>\n'.format(program["e"].encode( "utf-8" )))
                     epgFile.write('\t\t<desc lang="pt">{0} - {1}</desc>\n'.format(program["t"].encode( "utf-8" ),program["e"].encode( "utf-8" )))
-                    epgFile.write('\t\t<icon src="{0}" />\n'.format(program["ed"]))
+                    if "img" in program:
+                        epgFile.write('\t\t<icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/{0}" />\n'.format(program["img"]))
                     epgFile.write('\t</programme>\n')
                     n=n+1
 
